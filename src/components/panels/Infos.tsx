@@ -25,6 +25,10 @@ export function Infos({ isOpen, close, settingsData }: InfosProps) {
           Después de cada intento, tendrás la distancia, la dirección y la proximidad de su suposición y el país de destino.
         </div>
         <div>
+          La distancia es medida en base a la ubicación de las capitales comunales, por tanto puede estar una comuna vecina de la otra y aparecer a varios kilómetros de distancia.
+          Por ejemplo, la comuna de <span className="font-bold">Puente Alto</span> está a unos 47 kilómetros de <span className="font-bold">San José de Maipo</span>, sin embargo estas son comunas colindantes.
+        </div>
+        <div>
           NOTA IMPORTANTE: El nombre de las comunas en muchos casos NO COINCIDE con el nombre de la ciudad capital del mismo. 
           Por ejemplo, la comuna de <span className="font-bold">Santiago</span> es <span className="font-bold">Santiago Centro</span> pero la ciudad capital es <span className="font-bold">Santiago</span>
         </div>
