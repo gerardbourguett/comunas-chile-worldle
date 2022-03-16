@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg64"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="vector.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview66"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="361.34057"
+     inkscape:cy="669.99972"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs61" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="San_Pedro_de_Atacama"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#d38d5f;stroke-width:0.844599px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 113.32811,85.721062 c -2.32857,-4.29445 -12.48258,-2.31408 -8.30697,-9.80341 2.74139,-6.54347 -4.19233,-10.27276 -3.4513,-9.67876 2.3769,1.90533 3.50139,-6.07697 1.75579,-11.08442 1.80676,-4.12844 9.1745,-11.22902 1.62244,-13.81275 -6.15374,-3.92892 -0.97295,-13.05369 -6.32638,-17.50476 -0.73823,-0.87064 -1.24699,-1.81406 -1.58569,-2.81155 -0.33872,-0.99747 1.94283,-0.80874 -1.31946,0.65366 -3.26226,1.46241 -5.28892,4.44196 -8.76407,5.27124 -3.37941,-1.65397 -10.01039,-4.6223 -8.21414,3.17438 -3.15471,5.70317 -4.26953,5.39946 -5.38762,0.3654 -2.55063,-1.97331 -5.92921,-2.02985 -8.66613,-0.71058 -2.72517,2.03327 -2.10209,8.19719 -6.0764,8.0373 -2.6166,-0.10534 -1.39212,5.09139 -1.66348,7.47429 0.28762,4.54964 -6.77887,3.78655 -4.37398,7.77969 0.73262,5.67789 -6.56802,6.69057 -9.52353,6.41774 -0.43467,4.16227 -2.13154,5.54896 -7.53944,9.25021 -2.13879,1.46384 -3.5914,5.24141 -7.15551,8.08699 4.15837,8.00308 -5.19548,6.35856 -2.75108,13.94519 0.0956,4.82296 -3.91602,8.64924 -1.41083,13.077028 -1.43945,4.35489 -6.14953,5.99063 -9.91485,4.29525 -3.88348,-0.83079 -4.237967,3.82597 -7.5772833,4.15528 1.730123,4.7426 6.1443413,8.41161 1.753416,15.60267 -6.727504,2.95784 -6.6841,15.39497 -6.967927,27.37399 l -0.49770696,14.93128 c -0.877051,2.15674 -1.073141,4.31348 1.99083196,6.47022 v 10.4519 c 1.990851,2.65444 1.990826,4.64528 0,5.9725 L 1.9813997,215.49796 34.3325,225.94987 h 9.95419 l 28.36943,33.34652 0.99542,17.11819 94.06704,-37.52428 41.80758,-137.86546 -20.90378,-22.894618 -44.29611,10.94961 z"
+       sodipodi:nodetypes="ccscccssccccscccsccccccccccccccccccccc" />
+  </g>
+</svg>
