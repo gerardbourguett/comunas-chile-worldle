@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { DateTime, Interval } from "luxon";
 import { useMemo } from "react";
 import CopyToClipboard from "react-copy-to-clipboard";
@@ -60,7 +61,7 @@ export function Share({
       })
       .join("\n");
 
-    return [title, guessString, "https://comunas-chile.herokuapp.com"].join(
+    return [title, guessString, "https://chile-wordle.netlify.app"].join(
       "\n"
     );
   }, [dayString, guesses, hideImageMode, rotationMode, theme]);
