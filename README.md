@@ -1,0 +1,1 @@
+# comunas-chile-worldle
