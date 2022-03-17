@@ -1,6 +1,13 @@
 Aplicación editada, basada originalmente en WORLDLE. Abajo el readme del proyecto original.
 
 
+## Resources used:
+
+- API comunas de Chile, con latitud y longitud => https://apis.digital.gob.cl/dpa/#comunas
+- Obtención de mapas => Wikimedia Commons. Este archivo se encuentra bajo la licencia Creative Commons Genérica de Atribución/Compartir-Igual 2.5
+- Fixed images => http://www.amcharts.com/svg-maps/
+- 
+
 # WOR**L**DLE
 
 Play this geographical wordle here: https://worldle.teuteuf.fr !
