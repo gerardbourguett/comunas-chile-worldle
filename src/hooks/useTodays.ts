@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { DateTime } from "luxon";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import seedrandom from "seedrandom";
@@ -7,6 +8,7 @@ import { Guess, loadAllGuesses, saveGuesses } from "../domain/guess";
 const forcedCountries: Record<string, string> = {
   "2022-02-02": "TD",
   "2022-02-03": "PY",
+  "2022-03-18": "13101",
 };
 
 export function getDayString(shiftDayCount?: number) {
@@ -74,7 +76,7 @@ function getCountry(dayString: string) {
   return (
     forcedCountry ??
     countriesWithImage[
-      Math.floor(seedrandom.alea(dayString)() * countriesWithImage.length)
+    Math.floor(seedrandom.alea(dayString)() * countriesWithImage.length)
     ]
   );
 }

@@ -20,17 +20,28 @@ export function Infos({ isOpen, close, settingsData }: InfosProps) {
         <div>
           Guess the <Worldle /> in 6 guesses.
         </div>
-        <div>Cada oportunidad debe ser una comuna del territorio chileno, sea continental o insular ...</div>
         <div>
-          Después de cada intento, tendrás la distancia, la dirección y la proximidad de su suposición y el país de destino.
+          Cada oportunidad debe ser una comuna del territorio chileno, sea
+          continental o insular ...
         </div>
         <div>
-          La distancia es medida en base a la ubicación de las capitales comunales, por tanto puede estar una comuna vecina de la otra y aparecer a varios kilómetros de distancia.
-          Por ejemplo, la comuna de <span className="font-bold">Puente Alto</span> está a unos 47 kilómetros de <span className="font-bold">San José de Maipo</span>, sin embargo estas son comunas colindantes.
+          Después de cada intento, tendrás la distancia, la dirección y la
+          proximidad de su suposición y el país de destino.
         </div>
         <div>
-          NOTA IMPORTANTE: El nombre de las comunas en muchos casos NO COINCIDE con el nombre de la ciudad capital del mismo. 
-          Por ejemplo, la comuna de <span className="font-bold">Santiago</span> es <span className="font-bold">Santiago Centro</span> pero la ciudad capital es <span className="font-bold">Santiago</span>
+          La distancia es medida en base a la ubicación de las capitales
+          comunales, por tanto puede estar una comuna vecina de la otra y
+          aparecer a varios kilómetros de distancia. Por ejemplo, la comuna de{" "}
+          <span className="font-bold">Puente Alto</span> está a unos 47
+          kilómetros de <span className="font-bold">San José de Maipo</span>,
+          sin embargo estas son comunas colindantes.
+        </div>
+        <div>
+          NOTA IMPORTANTE: El nombre de las comunas en muchos casos NO COINCIDE
+          con el nombre de la ciudad capital del mismo. Por ejemplo, la comuna
+          de <span className="font-bold">Santiago</span> es{" "}
+          <span className="font-bold">Santiago Centro</span> pero la ciudad
+          capital es <span className="font-bold">Santiago</span>
         </div>
       </div>
       <div className="space-y-3 text-justify border-b-2 border-gray-200 pb-3 mb-3">
@@ -48,9 +59,11 @@ export function Infos({ isOpen, close, settingsData }: InfosProps) {
             settingsData={settingsData}
           />
           <div className="my-2">
-            Tu intento <span className="uppercase font-bold">Isla de Pascua</span> está a {" "}
-            {formatDistance(3772000, settingsData.distanceUnit)} lejos de la comuna de destino, está en dirección Este 
-            y tienes solo un 24% de proximidad. ¡Estás bastante lejos!
+            Tu intento{" "}
+            <span className="uppercase font-bold">Isla de Pascua</span> está a{" "}
+            {formatDistance(3772000, settingsData.distanceUnit)} lejos de la
+            comuna de destino, está en dirección Este y tienes solo un 24% de
+            proximidad. ¡Estás bastante lejos!
           </div>
         </div>
         <div>
@@ -67,7 +80,9 @@ export function Infos({ isOpen, close, settingsData }: InfosProps) {
           />
           <div className="my-2">
             Tu segundo intento{" "}
-            <span className="uppercase font-bold">Ñuñoa</span> está muy cerca. {formatDistance(119000, settingsData.distanceUnit)} hacia el sur. 97% de proximidad
+            <span className="uppercase font-bold">Ñuñoa</span> está muy cerca.{" "}
+            {formatDistance(119000, settingsData.distanceUnit)} hacia el sur.
+            97% de proximidad
           </div>
         </div>
         <div>
@@ -83,8 +98,9 @@ export function Infos({ isOpen, close, settingsData }: InfosProps) {
             settingsData={settingsData}
           />
           <div className="my-2">
-            Próximo intento, <span className="uppercase font-bold">San Vicente</span>,
-            es la comuna escondida. ¡Felicitaciones!{" "}
+            Próximo intento,{" "}
+            <span className="uppercase font-bold">San Vicente</span>, es la
+            comuna escondida. ¡Felicitaciones!{" "}
             <Twemoji text="🎉" options={{ className: "inline-block" }} />
           </div>
         </div>
@@ -131,7 +147,7 @@ export function Infos({ isOpen, close, settingsData }: InfosProps) {
       </div>
       <div className="space-y-3 text-justify pb-3">
         <div>
-          Editado del código de Worldle de {" "}
+          Editado del código de Worldle de{" "}
           <a
             className="underline"
             href="https://twitter.com/teuteuf"
@@ -152,18 +168,25 @@ export function Infos({ isOpen, close, settingsData }: InfosProps) {
           )
         </div>
         <div>
-          Want to support?{" "}
+          Creado por{" "}
           <a
             className="underline"
-            href="https://www.ko-fi.com/teuteuf"
+            href="https://twitter.com/vanderfondi"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <Twemoji
-              text="Buy me a coffee! ☕"
-              options={{ className: "inline-block" }}
-            />
+            @vanderfondi
+          </a>{" "}
+          - (
+          <a
+            className="underline"
+            href="https://github.com/gerardbourguett/comunas-chile-worldle"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            source code
           </a>
+          )
         </div>
       </div>
     </Panel>
