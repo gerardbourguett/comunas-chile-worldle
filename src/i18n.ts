@@ -139,7 +139,7 @@ const resources = {
         averageBestDistance: "Mejor distancia media",
         guessDistribution: "Distribución de aciertos:",
       },
-      buyMeACoffee: "Ofrézcame un ☕ !",
+      buyMeACoffee: "Licencia de uso de mapas Wikimedia",
     },
   },
   eu: {

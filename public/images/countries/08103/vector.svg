@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg57"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="vector.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview59"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="361.34057"
+     inkscape:cy="561.93525"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs54" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       id="Chiguayante"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#d39062;stroke-width:2.46658;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 84.481185,272.77891 2.77495,-28.51988 h 7.09142 l 1.85014,-47.7901 9.095485,-1.38632 2.62077,-26.97836 h 30.36976 l 0.61671,41.9321 h 7.70814 l 23.27833,-18.03705 1.23343,-22.04491 8.47877,-10.94562 18.03704,-0.61671 0.61672,-22.04517 7.70813,-5.70408 2.62077,-20.04085 -8.9413,0.61671 -9.09549,-23.895037 1.23343,-38.69436 -25.12822,-0.77216 -0.61671,18.19097 -38.84853,-4.62483 -7.70814,9.09548 -12.17879,-0.61671 -3.23723,-34.84041 H 93.731865 l -16.80362,18.03704 h -15.5702 l 2.62077,-4.47065 -10.94536,-2.00559 V 32.439563 L 1.8516949,24.577503 c 2.43627,6.87201 4.95663,13.72465 6.78333,21.1201 8.2417701,20.92693 41.1948401,60.196197 12.0243501,77.851497 -3.81189,1.00152 14.25599,35.9905 13.10386,42.08601 -1.1952,30.51196 13.14464,70.51364 30.8323,94.50069 4.52569,6.03435 11.65152,10.07814 19.88667,12.64132 z" />
+  </g>
+</svg>

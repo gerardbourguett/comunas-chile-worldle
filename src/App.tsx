@@ -89,7 +89,7 @@ function App() {
             )}
             <h1 className="text-4xl font-bold uppercase tracking-wide text-center my-1 flex-auto">
               <span className="font-bold">
-                COMUNAS DE CHI<span className="text-green-600">L</span>E
+                COMUNAS DE CHI<span className="text-red-600">L</span>E
               </span>
             </h1>
             <button
@@ -126,7 +126,7 @@ function App() {
             ) : (
               <a
                 className="underline pl-1"
-                href="https://www.ko-fi.com/teuteuf"
+                href="https://creativecommons.org/licenses/by-sa/2.5/deed.es#"
                 target="_blank"
                 rel="noopener noreferrer"
               >
