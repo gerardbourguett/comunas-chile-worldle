@@ -5,8 +5,9 @@ Aplicación editada, basada originalmente en WORLDLE. Abajo el readme del proyec
 
 - API comunas de Chile, con latitud y longitud => https://apis.digital.gob.cl/dpa/#comunas
 - Obtención de mapas => Wikimedia Commons. Este archivo se encuentra bajo la licencia Creative Commons Genérica de Atribución/Compartir-Igual 2.5
-- Fixed images => http://www.amcharts.com/svg-maps/
-- 
+- repositorio mapas SVG, con las mismas licencias de uso https://github.com/gerardbourguett/comunas-chile-svg
+
+# README PROYECTO ORIGINAL
 
 # WOR**L**DLE
 
