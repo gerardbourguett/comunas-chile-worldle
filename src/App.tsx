@@ -126,7 +126,7 @@ function App() {
             ) : (
               <a
                 className="underline pl-1"
-                href="https://creativecommons.org/licenses/by-sa/2.5/deed.es#"
+                href="https://ko-fi.com/vanderfondi"
                 target="_blank"
                 rel="noopener noreferrer"
               >
