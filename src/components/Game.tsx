@@ -10,6 +10,7 @@ import { toast } from "react-toastify";
 import {
   countries,
   getCountryName,
+  getUrl,
   sanitizeCountryName,
 } from "../domain/countries";
 import { CountryInput } from "./CountryInput";
@@ -207,12 +208,23 @@ export function Game({ settingsData, updateSettings }: GameProps) {
               href={`https://www.google.com/maps?q=${getCountryName(
                 i18n.resolvedLanguage,
                 country
-              )}+${country.code.toUpperCase()}&hl=${i18n.resolvedLanguage}`}
+              )}`}
               target="_blank"
               rel="noopener noreferrer"
             >
               <Twemoji
                 text={t("showOnGoogleMaps")}
+                options={{ className: "inline-block" }}
+              />
+            </a>
+            <a
+              className="underline w-full text-center block mt-4"
+              href={getUrl(country)}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Twemoji
+                text={t("showOnWikipedia")}
                 options={{ className: "inline-block" }}
               />
             </a>

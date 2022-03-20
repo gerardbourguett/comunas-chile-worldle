@@ -366,7 +366,7 @@ export const countries: Country[] = [
     nombre: "Algarrobo",
     lat: -33.3332,
     lng: -71.6023,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Algarrobo_(Chile)",
     code_padre: "056",
   },
   {
@@ -375,7 +375,7 @@ export const countries: Country[] = [
     nombre: "Alhue",
     lat: -34.0355,
     lng: -71.028,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Alhu%C3%A9",
     code_padre: "135",
   },
   {
@@ -384,7 +384,7 @@ export const countries: Country[] = [
     nombre: "Alto Biobio",
     lat: -37.8708,
     lng: -71.6106,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Alto_Biob%C3%ADo",
     code_padre: "083",
   },
   {
@@ -393,7 +393,7 @@ export const countries: Country[] = [
     nombre: "Alto del Carmen",
     lat: -28.7508,
     lng: -70.4883,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Alto_del_Carmen",
     code_padre: "033",
   },
   {
@@ -402,7 +402,7 @@ export const countries: Country[] = [
     nombre: "Alto Hospicio",
     lat: -20.2677,
     lng: -70.1007,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Alto_Hospicio",
     code_padre: "011",
   },
   {
@@ -411,7 +411,7 @@ export const countries: Country[] = [
     nombre: "Ancud",
     lat: -41.8657,
     lng: -73.8336,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Ancud",
     code_padre: "102",
   },
   {
@@ -420,7 +420,7 @@ export const countries: Country[] = [
     nombre: "Andacollo",
     lat: -30.2357,
     lng: -71.0828,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Andacollo_(Chile)",
     code_padre: "041",
   },
   {
@@ -429,7 +429,7 @@ export const countries: Country[] = [
     nombre: "Angol",
     lat: -37.803,
     lng: -72.7017,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Angol",
     code_padre: "092",
   },
   {
@@ -438,7 +438,7 @@ export const countries: Country[] = [
     nombre: "Antartica",
     lat: -64.3589,
     lng: -60.8203,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Ant%C3%A1rtica_(comuna)",
     code_padre: "122",
   },
   {
@@ -447,7 +447,7 @@ export const countries: Country[] = [
     nombre: "Antofagasta",
     lat: -23.6499,
     lng: -70.4069,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Antofagasta",
     code_padre: "021",
   },
   {
@@ -456,7 +456,7 @@ export const countries: Country[] = [
     nombre: "Antuco",
     lat: -37.3273,
     lng: -71.6775,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Antuco",
     code_padre: "083",
   },
   {
@@ -465,7 +465,7 @@ export const countries: Country[] = [
     nombre: "Arauco",
     lat: -37.257,
     lng: -73.2839,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Arauco_(Chile)",
     code_padre: "082",
   },
   {
@@ -474,7 +474,7 @@ export const countries: Country[] = [
     nombre: "Arica",
     lat: -18.477,
     lng: -70.3221,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Arica",
     code_padre: "151",
   },
   {
@@ -483,7 +483,7 @@ export const countries: Country[] = [
     nombre: "Aysen",
     lat: -45.3975,
     lng: -72.6993,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Ays%C3%A9n_(comuna)",
     code_padre: "112",
   },
   {
@@ -492,7 +492,7 @@ export const countries: Country[] = [
     nombre: "Buin",
     lat: -33.754,
     lng: -70.7163,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Buin_(Chile)",
     code_padre: "134",
   },
   {
@@ -501,7 +501,7 @@ export const countries: Country[] = [
     nombre: "Bulnes",
     lat: -36.7422,
     lng: -72.3018,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Bulnes_(Chile)",
     code_padre: "161",
   },
   {
@@ -510,7 +510,7 @@ export const countries: Country[] = [
     nombre: "Cabildo",
     lat: -32.4095,
     lng: -71.0798,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Cabildo_(Chile)",
     code_padre: "054",
   },
   {
@@ -519,7 +519,7 @@ export const countries: Country[] = [
     nombre: "Cabo de Hornos",
     lat: -54.9352,
     lng: -67.6041,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Cabo_de_Hornos_(comuna)",
     code_padre: "122",
   },
   {
@@ -528,7 +528,7 @@ export const countries: Country[] = [
     nombre: "Cabrero",
     lat: -37.0374,
     lng: -72.4057,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Cabrero_(Chile)",
     code_padre: "083",
   },
   {
@@ -537,7 +537,7 @@ export const countries: Country[] = [
     nombre: "Calama",
     lat: -22.4542,
     lng: -68.9337,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Calama",
     code_padre: "022",
   },
   {
@@ -546,7 +546,7 @@ export const countries: Country[] = [
     nombre: "Calbuco",
     lat: -41.7775,
     lng: -73.1415,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Calbuco",
     code_padre: "101",
   },
   {
@@ -555,16 +555,16 @@ export const countries: Country[] = [
     nombre: "Caldera",
     lat: -27.0668,
     lng: -70.817,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Caldera_(Chile)",
     code_padre: "031",
   },
   {
     code: "05502",
     tipo: "comuna",
-    nombre: "Calera",
+    nombre: "La Calera",
     lat: -32.7837,
     lng: -71.1586,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/La_Calera_(Chile)",
     code_padre: "055",
   },
   {
@@ -573,7 +573,7 @@ export const countries: Country[] = [
     nombre: "Calera de Tango",
     lat: -33.6326,
     lng: -70.7821,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Calera_de_Tango",
     code_padre: "134",
   },
   {
@@ -582,7 +582,7 @@ export const countries: Country[] = [
     nombre: "Calle Larga",
     lat: -32.9514,
     lng: -70.5524,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Calle_Larga",
     code_padre: "053",
   },
   {
@@ -591,7 +591,7 @@ export const countries: Country[] = [
     nombre: "Camarones",
     lat: -19.0089,
     lng: -69.9074,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Camarones_(comuna)",
     code_padre: "151",
   },
   {
@@ -600,7 +600,7 @@ export const countries: Country[] = [
     nombre: "Camina",
     lat: -19.3118,
     lng: -69.4264,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Cami%C3%B1a",
     code_padre: "014",
   },
   {
@@ -609,7 +609,7 @@ export const countries: Country[] = [
     nombre: "Canela",
     lat: -31.3935,
     lng: -71.4578,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Canela_(Chile)",
     code_padre: "042",
   },
   {
@@ -618,7 +618,7 @@ export const countries: Country[] = [
     nombre: "Canete",
     lat: -37.8039,
     lng: -73.4016,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Ca%C3%B1ete_(Chile)",
     code_padre: "082",
   },
   {
@@ -627,7 +627,7 @@ export const countries: Country[] = [
     nombre: "Carahue",
     lat: -38.7116,
     lng: -73.1651,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Carahue",
     code_padre: "091",
   },
   {
@@ -636,7 +636,7 @@ export const countries: Country[] = [
     nombre: "Cartagena",
     lat: -33.5341,
     lng: -71.4628,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Cartagena_(Chile)",
     code_padre: "056",
   },
   {
@@ -645,7 +645,7 @@ export const countries: Country[] = [
     nombre: "Casablanca",
     lat: -33.3262,
     lng: -71.3983,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Casablanca_(Chile)",
     code_padre: "051",
   },
   {
@@ -654,7 +654,7 @@ export const countries: Country[] = [
     nombre: "Castro",
     lat: -42.48,
     lng: -73.7625,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Castro_(Chile)",
     code_padre: "102",
   },
   {
@@ -663,7 +663,7 @@ export const countries: Country[] = [
     nombre: "Catemu",
     lat: -32.6981,
     lng: -70.956,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Catemu",
     code_padre: "057",
   },
   {
@@ -672,7 +672,7 @@ export const countries: Country[] = [
     nombre: "Cauquenes",
     lat: -35.9738,
     lng: -72.3142,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Cauquenes",
     code_padre: "072",
   },
   {
@@ -681,7 +681,7 @@ export const countries: Country[] = [
     nombre: "Cerrillos",
     lat: -33.497,
     lng: -70.7112,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Cerrillos_(Chile)",
     code_padre: "131",
   },
   {
@@ -690,7 +690,7 @@ export const countries: Country[] = [
     nombre: "Cerro Navia",
     lat: -33.4267,
     lng: -70.7434,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Cerro_Navia",
     code_padre: "131",
   },
   {
@@ -699,16 +699,16 @@ export const countries: Country[] = [
     nombre: "Chaiten",
     lat: -42.9168,
     lng: -72.7164,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Chait%C3%A9n_(comuna)",
     code_padre: "104",
   },
   {
     code: "03201",
     tipo: "comuna",
-    nombre: "Chanaral",
+    nombre: "Chañaral",
     lat: -26.3425,
     lng: -70.6107,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Cha%C3%B1aral",
     code_padre: "032",
   },
   {
@@ -717,7 +717,7 @@ export const countries: Country[] = [
     nombre: "Chanco",
     lat: -35.7337,
     lng: -72.5333,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Chanco",
     code_padre: "072",
   },
   {
@@ -726,7 +726,7 @@ export const countries: Country[] = [
     nombre: "Chepica",
     lat: -34.7303,
     lng: -71.2688,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Ch%C3%A9pica_(Chile)",
     code_padre: "063",
   },
   {
@@ -735,7 +735,7 @@ export const countries: Country[] = [
     nombre: "Chiguayante",
     lat: -36.9046,
     lng: -73.0164,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Chiguayante",
     code_padre: "081",
   },
   {
@@ -744,7 +744,7 @@ export const countries: Country[] = [
     nombre: "Chile Chico",
     lat: -46.5401,
     lng: -71.7218,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Chile_Chico",
     code_padre: "114",
   },
   {
@@ -753,7 +753,7 @@ export const countries: Country[] = [
     nombre: "Chillan",
     lat: -36.6013,
     lng: -72.1093,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Chill%C3%A1n",
     code_padre: "161",
   },
   {
@@ -762,7 +762,7 @@ export const countries: Country[] = [
     nombre: "Chillan Viejo",
     lat: -36.6333,
     lng: -72.1404,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Chill%C3%A1n_Viejo",
     code_padre: "161",
   },
   {
@@ -771,7 +771,7 @@ export const countries: Country[] = [
     nombre: "Chimbarongo",
     lat: -34.7552,
     lng: -70.9753,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Chimbarongo",
     code_padre: "063",
   },
   {
@@ -780,7 +780,7 @@ export const countries: Country[] = [
     nombre: "Cholchol",
     lat: -38.596,
     lng: -72.8445,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Cholchol",
     code_padre: "091",
   },
   {
@@ -789,7 +789,7 @@ export const countries: Country[] = [
     nombre: "Chonchi",
     lat: -42.6232,
     lng: -73.7739,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Chonchi",
     code_padre: "102",
   },
   {
@@ -798,7 +798,7 @@ export const countries: Country[] = [
     nombre: "Cisnes",
     lat: -44.728,
     lng: -72.6828,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Cisnes_(Chile)",
     code_padre: "112",
   },
   {
@@ -807,7 +807,7 @@ export const countries: Country[] = [
     nombre: "Cobquecura",
     lat: -36.1318,
     lng: -72.7911,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Cobquecura_(comuna)",
     code_padre: "162",
   },
   {
@@ -816,7 +816,7 @@ export const countries: Country[] = [
     nombre: "Cochamo",
     lat: -41.488,
     lng: -72.3038,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Cocham%C3%B3",
     code_padre: "101",
   },
   {
@@ -825,7 +825,7 @@ export const countries: Country[] = [
     nombre: "Cochrane",
     lat: -47.2494,
     lng: -72.5784,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Cochrane",
     code_padre: "113",
   },
   {
@@ -834,7 +834,7 @@ export const countries: Country[] = [
     nombre: "Codegua",
     lat: -34.0442,
     lng: -70.5131,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Codegua",
     code_padre: "061",
   },
   {
@@ -843,16 +843,16 @@ export const countries: Country[] = [
     nombre: "Coelemu",
     lat: -36.4877,
     lng: -72.7022,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Coelemu_(comuna)",
     code_padre: "162",
   },
   {
     code: "11101",
     tipo: "comuna",
-    nombre: "Coihaique",
+    nombre: "Coyhaique",
     lat: -45.5758,
     lng: -72.0621,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Coyhaique",
     code_padre: "111",
   },
   {
@@ -861,7 +861,7 @@ export const countries: Country[] = [
     nombre: "Coihueco",
     lat: -36.6166,
     lng: -71.8344,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Coihueco_(comuna)",
     code_padre: "163",
   },
   {
@@ -870,7 +870,7 @@ export const countries: Country[] = [
     nombre: "Coinco",
     lat: -34.2918,
     lng: -70.9706,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Coinco",
     code_padre: "061",
   },
   {
@@ -879,7 +879,7 @@ export const countries: Country[] = [
     nombre: "Colbun",
     lat: -35.6927,
     lng: -71.4067,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Colb%C3%BAn",
     code_padre: "074",
   },
   {
@@ -888,7 +888,7 @@ export const countries: Country[] = [
     nombre: "Colchane",
     lat: -19.2787,
     lng: -68.6343,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Colchane",
     code_padre: "014",
   },
   {
@@ -897,7 +897,7 @@ export const countries: Country[] = [
     nombre: "Colina",
     lat: -33.1996,
     lng: -70.6702,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Colina_(Chile)",
     code_padre: "133",
   },
   {
@@ -906,7 +906,7 @@ export const countries: Country[] = [
     nombre: "Collipulli",
     lat: -37.9528,
     lng: -72.4323,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Collipulli",
     code_padre: "092",
   },
   {
@@ -915,7 +915,7 @@ export const countries: Country[] = [
     nombre: "Coltauco",
     lat: -34.2498,
     lng: -71.0791,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Coltauco",
     code_padre: "061",
   },
   {
@@ -924,7 +924,7 @@ export const countries: Country[] = [
     nombre: "Combarbala",
     lat: -31.1764,
     lng: -70.9978,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Combarbal%C3%A1",
     code_padre: "043",
   },
   {
@@ -933,7 +933,7 @@ export const countries: Country[] = [
     nombre: "Concepcion",
     lat: -36.8148,
     lng: -73.0293,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Concepci%C3%B3n_(Chile)",
     code_padre: "081",
   },
   {
@@ -942,7 +942,7 @@ export const countries: Country[] = [
     nombre: "Conchali",
     lat: -33.3862,
     lng: -70.6727,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Conchal%C3%AD",
     code_padre: "131",
   },
   {
@@ -951,7 +951,7 @@ export const countries: Country[] = [
     nombre: "Concon",
     lat: -32.9305,
     lng: -71.5191,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Conc%C3%B3n",
     code_padre: "051",
   },
   {
@@ -960,7 +960,7 @@ export const countries: Country[] = [
     nombre: "Constitucion",
     lat: -35.3309,
     lng: -72.4139,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Constituci%C3%B3n_(Chile)",
     code_padre: "071",
   },
   {
@@ -969,7 +969,7 @@ export const countries: Country[] = [
     nombre: "Contulmo",
     lat: -38.026,
     lng: -73.2581,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Contulmo",
     code_padre: "082",
   },
   {
@@ -978,7 +978,7 @@ export const countries: Country[] = [
     nombre: "Copiapo",
     lat: -27.3654,
     lng: -70.3314,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Copiap%C3%B3",
     code_padre: "031",
   },
   {
@@ -987,7 +987,7 @@ export const countries: Country[] = [
     nombre: "Coquimbo",
     lat: -29.968,
     lng: -71.337,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Coquimbo",
     code_padre: "041",
   },
   {
@@ -996,7 +996,7 @@ export const countries: Country[] = [
     nombre: "Coronel",
     lat: -37.0265,
     lng: -73.1498,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Coronel_(Chile)",
     code_padre: "081",
   },
   {
@@ -1005,7 +1005,7 @@ export const countries: Country[] = [
     nombre: "Corral",
     lat: -39.8892,
     lng: -73.433,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Corral_(Chile)",
     code_padre: "141",
   },
   {
@@ -1014,7 +1014,7 @@ export const countries: Country[] = [
     nombre: "Cunco",
     lat: -38.9307,
     lng: -72.0264,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Cunco_(Chile)",
     code_padre: "091",
   },
   {
@@ -1023,7 +1023,7 @@ export const countries: Country[] = [
     nombre: "Curacautin",
     lat: -38.4317,
     lng: -71.8898,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Curacaut%C3%ADn",
     code_padre: "092",
   },
   {
@@ -1032,7 +1032,7 @@ export const countries: Country[] = [
     nombre: "Curacavi",
     lat: -33.4063,
     lng: -71.1333,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Curacaut%C3%ADn",
     code_padre: "135",
   },
   {
@@ -1041,7 +1041,7 @@ export const countries: Country[] = [
     nombre: "Curaco de Velez",
     lat: -42.4404,
     lng: -73.6037,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Curaco_de_V%C3%A9lez",
     code_padre: "102",
   },
   {
@@ -1050,7 +1050,7 @@ export const countries: Country[] = [
     nombre: "Curanilahue",
     lat: -37.4759,
     lng: -73.353,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Curanilahue",
     code_padre: "082",
   },
   {
@@ -1059,7 +1059,7 @@ export const countries: Country[] = [
     nombre: "Curarrehue",
     lat: -39.3592,
     lng: -71.5881,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Curarrehue",
     code_padre: "091",
   },
   {
@@ -1068,7 +1068,7 @@ export const countries: Country[] = [
     nombre: "Curepto",
     lat: -35.091,
     lng: -72.0216,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Curepto",
     code_padre: "071",
   },
   {
@@ -1077,7 +1077,7 @@ export const countries: Country[] = [
     nombre: "Curico",
     lat: -34.9756,
     lng: -71.2235,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Curic%C3%B3",
     code_padre: "073",
   },
   {
@@ -1086,7 +1086,7 @@ export const countries: Country[] = [
     nombre: "Dalcahue",
     lat: -42.3776,
     lng: -73.6521,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Dalcahue",
     code_padre: "102",
   },
   {
@@ -1095,7 +1095,7 @@ export const countries: Country[] = [
     nombre: "Diego de Almagro",
     lat: -26.3771,
     lng: -70.0488,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Diego_de_Almagro_(Chile)",
     code_padre: "032",
   },
   {
@@ -1104,7 +1104,7 @@ export const countries: Country[] = [
     nombre: "Donihue",
     lat: -34.2024,
     lng: -70.9325,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Do%C3%B1ihue",
     code_padre: "061",
   },
   {
@@ -1113,7 +1113,7 @@ export const countries: Country[] = [
     nombre: "El Bosque",
     lat: -33.5638,
     lng: -70.6714,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/El_Bosque_(Chile)",
     code_padre: "131",
   },
   {
@@ -1122,7 +1122,7 @@ export const countries: Country[] = [
     nombre: "El Carmen",
     lat: -36.8964,
     lng: -72.0218,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/El_Carmen_(Chile)",
     code_padre: "161",
   },
   {
@@ -1131,7 +1131,7 @@ export const countries: Country[] = [
     nombre: "El Monte",
     lat: -33.6662,
     lng: -71.0294,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/El_Monte_(Chile)",
     code_padre: "136",
   },
   {
@@ -1140,7 +1140,7 @@ export const countries: Country[] = [
     nombre: "El Quisco",
     lat: -33.4156,
     lng: -71.6556,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/El_Quisco",
     code_padre: "056",
   },
   {
@@ -1149,7 +1149,7 @@ export const countries: Country[] = [
     nombre: "El Tabo",
     lat: -33.4847,
     lng: -71.5862,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/El_Tabo",
     code_padre: "056",
   },
   {
@@ -1158,7 +1158,7 @@ export const countries: Country[] = [
     nombre: "Empedrado",
     lat: -35.6213,
     lng: -72.2473,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Empedrado_(Chile)",
     code_padre: "071",
   },
   {
@@ -1167,7 +1167,7 @@ export const countries: Country[] = [
     nombre: "Ercilla",
     lat: -38.0587,
     lng: -72.358,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Ercilla",
     code_padre: "092",
   },
   {
@@ -1176,7 +1176,7 @@ export const countries: Country[] = [
     nombre: "Estacion Central",
     lat: -33.4503,
     lng: -70.6751,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Estaci%C3%B3n_Central",
     code_padre: "131",
   },
   {
@@ -1185,7 +1185,7 @@ export const countries: Country[] = [
     nombre: "Florida",
     lat: -36.8209,
     lng: -72.6621,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Florida_(Chile)",
     code_padre: "081",
   },
   {
@@ -1194,7 +1194,7 @@ export const countries: Country[] = [
     nombre: "Freire",
     lat: -38.9538,
     lng: -72.6219,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Freire_(Chile)",
     code_padre: "091",
   },
   {
@@ -1203,7 +1203,7 @@ export const countries: Country[] = [
     nombre: "Freirina",
     lat: -28.5001,
     lng: -71.076,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Freirina",
     code_padre: "033",
   },
   {
@@ -1212,7 +1212,7 @@ export const countries: Country[] = [
     nombre: "Fresia",
     lat: -41.1542,
     lng: -73.4224,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Fresia",
     code_padre: "101",
   },
   {
@@ -1221,7 +1221,7 @@ export const countries: Country[] = [
     nombre: "Frutillar",
     lat: -41.1167,
     lng: -73.05,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Frutillar",
     code_padre: "101",
   },
   {
@@ -1230,7 +1230,7 @@ export const countries: Country[] = [
     nombre: "Futaleufu",
     lat: -43.1859,
     lng: -71.8666,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Futaleuf%C3%BA_(comuna)",
     code_padre: "104",
   },
   {
@@ -1239,7 +1239,7 @@ export const countries: Country[] = [
     nombre: "Futrono",
     lat: -40.1243,
     lng: -72.393,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Futrono",
     code_padre: "142",
   },
   {
@@ -1248,7 +1248,7 @@ export const countries: Country[] = [
     nombre: "Galvarino",
     lat: -38.4085,
     lng: -72.7804,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Galvarino_(Chile)",
     code_padre: "091",
   },
   {
@@ -1257,7 +1257,7 @@ export const countries: Country[] = [
     nombre: "General Lagos",
     lat: -17.8324,
     lng: -69.6094,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/General_Lagos_(comuna)",
     code_padre: "152",
   },
   {
@@ -1266,7 +1266,7 @@ export const countries: Country[] = [
     nombre: "Gorbea",
     lat: -39.0948,
     lng: -72.6722,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Gorbea_(Chile)",
     code_padre: "091",
   },
   {
@@ -1275,7 +1275,7 @@ export const countries: Country[] = [
     nombre: "Graneros",
     lat: -34.0709,
     lng: -70.7501,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Graneros",
     code_padre: "061",
   },
   {
@@ -1284,7 +1284,7 @@ export const countries: Country[] = [
     nombre: "Guaitecas",
     lat: -43.8781,
     lng: -73.7485,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Guaitecas",
     code_padre: "112",
   },
   {
@@ -1293,7 +1293,7 @@ export const countries: Country[] = [
     nombre: "Hijuelas",
     lat: -32.8671,
     lng: -71.0929,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Hijuelas",
     code_padre: "055",
   },
   {
@@ -1302,7 +1302,7 @@ export const countries: Country[] = [
     nombre: "Hualaihue",
     lat: -42.0967,
     lng: -72.4044,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Hualaihu%C3%A9",
     code_padre: "104",
   },
   {
@@ -1311,7 +1311,7 @@ export const countries: Country[] = [
     nombre: "Hualane",
     lat: -34.9762,
     lng: -71.8043,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Huala%C3%B1%C3%A9",
     code_padre: "073",
   },
   {
@@ -1320,7 +1320,7 @@ export const countries: Country[] = [
     nombre: "Hualpen",
     lat: -36.7827,
     lng: -73.1454,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Hualp%C3%A9n",
     code_padre: "081",
   },
   {
@@ -1329,7 +1329,7 @@ export const countries: Country[] = [
     nombre: "Hualqui",
     lat: -37.0145,
     lng: -72.8662,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Hualqui",
     code_padre: "081",
   },
   {
@@ -1338,7 +1338,7 @@ export const countries: Country[] = [
     nombre: "Huara",
     lat: -19.9963,
     lng: -69.7718,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Huara",
     code_padre: "014",
   },
   {
@@ -1347,7 +1347,7 @@ export const countries: Country[] = [
     nombre: "Huasco",
     lat: -28.4518,
     lng: -71.2244,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Huasco",
     code_padre: "033",
   },
   {
@@ -1356,7 +1356,7 @@ export const countries: Country[] = [
     nombre: "Huechuraba",
     lat: -33.3665,
     lng: -70.6315,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Huechuraba",
     code_padre: "131",
   },
   {
@@ -1365,7 +1365,7 @@ export const countries: Country[] = [
     nombre: "Illapel",
     lat: -31.6242,
     lng: -71.1626,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Illapel",
     code_padre: "042",
   },
   {
@@ -1374,7 +1374,7 @@ export const countries: Country[] = [
     nombre: "Independencia",
     lat: -33.4196,
     lng: -70.6627,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Independencia_(Chile)",
     code_padre: "131",
   },
   {
@@ -1383,7 +1383,7 @@ export const countries: Country[] = [
     nombre: "Iquique",
     lat: -20.2232,
     lng: -70.1463,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Iquique",
     code_padre: "011",
   },
   {
@@ -1392,7 +1392,7 @@ export const countries: Country[] = [
     nombre: "Isla de Maipo",
     lat: -33.7536,
     lng: -70.8862,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Isla_de_Maipo",
     code_padre: "136",
   },
   {
@@ -1401,7 +1401,7 @@ export const countries: Country[] = [
     nombre: "Isla de Pascua",
     lat: -27.1504,
     lng: -109.423,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Isla_de_Pascua_(comuna)",
     code_padre: "052",
   },
   {
@@ -1410,7 +1410,7 @@ export const countries: Country[] = [
     nombre: "Juan Fernandez",
     lat: -33.6167,
     lng: -78.8667,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Juan_Fern%C3%A1ndez_(comuna)",
     code_padre: "051",
   },
   {
@@ -1428,7 +1428,7 @@ export const countries: Country[] = [
     nombre: "La Cruz",
     lat: -32.8258,
     lng: -71.2592,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/La_Cisterna",
     code_padre: "055",
   },
   {
@@ -1437,7 +1437,7 @@ export const countries: Country[] = [
     nombre: "La Estrella",
     lat: -34.2037,
     lng: -71.6073,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/La_Estrella_(Chile)",
     code_padre: "062",
   },
   {
@@ -1446,7 +1446,7 @@ export const countries: Country[] = [
     nombre: "La Florida",
     lat: -33.5225,
     lng: -70.5952,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/La_Florida_(Chile)",
     code_padre: "131",
   },
   {
@@ -1455,7 +1455,7 @@ export const countries: Country[] = [
     nombre: "La Granja",
     lat: -33.5373,
     lng: -70.6188,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/La_Granja_(Chile)",
     code_padre: "131",
   },
   {
@@ -1464,7 +1464,7 @@ export const countries: Country[] = [
     nombre: "La Higuera",
     lat: -29.497,
     lng: -71.2656,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/La_Higuera_(Chile)",
     code_padre: "041",
   },
   {
@@ -1473,7 +1473,7 @@ export const countries: Country[] = [
     nombre: "La Ligua",
     lat: -32.449,
     lng: -71.2309,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/La_Ligua",
     code_padre: "054",
   },
   {
@@ -1482,7 +1482,7 @@ export const countries: Country[] = [
     nombre: "La Pintana",
     lat: -33.5902,
     lng: -70.6322,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/La_Pintana",
     code_padre: "131",
   },
   {
@@ -1491,7 +1491,7 @@ export const countries: Country[] = [
     nombre: "La Reina",
     lat: -33.4565,
     lng: -70.5349,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/La_Reina",
     code_padre: "131",
   },
   {
@@ -1500,7 +1500,7 @@ export const countries: Country[] = [
     nombre: "La Serena",
     lat: -29.8966,
     lng: -71.2422,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/La_Serena_(Chile)",
     code_padre: "041",
   },
   {
@@ -1509,7 +1509,7 @@ export const countries: Country[] = [
     nombre: "La Union",
     lat: -40.2951,
     lng: -73.0829,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/La_Uni%C3%B3n_(Chile)",
     code_padre: "142",
   },
   {
@@ -1518,7 +1518,7 @@ export const countries: Country[] = [
     nombre: "Lago Ranco",
     lat: -40.312,
     lng: -72.5002,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Lago_Ranco_(comuna)",
     code_padre: "142",
   },
   {
@@ -1527,7 +1527,7 @@ export const countries: Country[] = [
     nombre: "Lago Verde",
     lat: -44.2236,
     lng: -71.8396,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Lago_Verde_(comuna)",
     code_padre: "111",
   },
   {
@@ -1536,7 +1536,7 @@ export const countries: Country[] = [
     nombre: "Laguna Blanca",
     lat: -52.3001,
     lng: -71.1612,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Laguna_Blanca_(comuna)",
     code_padre: "121",
   },
   {
@@ -1545,7 +1545,7 @@ export const countries: Country[] = [
     nombre: "Laja",
     lat: -37.2768,
     lng: -72.7171,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Laja_(Chile)",
     code_padre: "083",
   },
   {
@@ -1554,7 +1554,7 @@ export const countries: Country[] = [
     nombre: "Lampa",
     lat: -33.2863,
     lng: -70.8789,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Lampa_(Chile)",
     code_padre: "133",
   },
   {
@@ -1563,7 +1563,7 @@ export const countries: Country[] = [
     nombre: "Lanco",
     lat: -39.4522,
     lng: -72.7747,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Lanco",
     code_padre: "141",
   },
   {
@@ -1572,7 +1572,7 @@ export const countries: Country[] = [
     nombre: "Las Cabras",
     lat: -34.2945,
     lng: -71.3066,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Las_Cabras",
     code_padre: "061",
   },
   {
@@ -1581,7 +1581,7 @@ export const countries: Country[] = [
     nombre: "Las Condes",
     lat: -33.4154,
     lng: -70.5837,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Las_Condes",
     code_padre: "131",
   },
   {
@@ -1590,7 +1590,7 @@ export const countries: Country[] = [
     nombre: "Lautaro",
     lat: -38.5286,
     lng: -72.427,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Lautaro_(Chile)",
     code_padre: "091",
   },
   {
@@ -1599,7 +1599,7 @@ export const countries: Country[] = [
     nombre: "Lebu",
     lat: -37.6079,
     lng: -73.6508,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Lebu",
     code_padre: "082",
   },
   {
@@ -1608,7 +1608,7 @@ export const countries: Country[] = [
     nombre: "Licanten",
     lat: -34.9591,
     lng: -72.0269,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Licant%C3%A9n",
     code_padre: "073",
   },
   {
@@ -1617,7 +1617,7 @@ export const countries: Country[] = [
     nombre: "Limache",
     lat: -33.0035,
     lng: -71.2613,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Limache",
     code_padre: "058",
   },
   {
@@ -1626,7 +1626,7 @@ export const countries: Country[] = [
     nombre: "Linares",
     lat: -35.8495,
     lng: -71.585,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Linares_(Chile)",
     code_padre: "074",
   },
   {
@@ -1635,16 +1635,16 @@ export const countries: Country[] = [
     nombre: "Litueche",
     lat: -34.1069,
     lng: -71.7204,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Litueche",
     code_padre: "062",
   },
   {
     code: "05703",
     tipo: "comuna",
-    nombre: "Llaillay",
+    nombre: "Llay Llay",
     lat: -32.8899,
     lng: -70.8942,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Llay-Llay",
     code_padre: "057",
   },
   {
@@ -1653,7 +1653,7 @@ export const countries: Country[] = [
     nombre: "Llanquihue",
     lat: -41.2574,
     lng: -73.0054,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Llanquihue_(comuna)",
     code_padre: "101",
   },
   {
@@ -1662,7 +1662,7 @@ export const countries: Country[] = [
     nombre: "Lo Barnechea",
     lat: -33.2993,
     lng: -70.3748,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Lo_Barnechea",
     code_padre: "131",
   },
   {
@@ -1671,7 +1671,7 @@ export const countries: Country[] = [
     nombre: "Lo Espejo",
     lat: -33.5247,
     lng: -70.6916,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Lo_Espejo",
     code_padre: "131",
   },
   {
@@ -1680,7 +1680,7 @@ export const countries: Country[] = [
     nombre: "Lo Prado",
     lat: -33.4489,
     lng: -70.721,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Lo_Prado",
     code_padre: "131",
   },
   {
@@ -1689,7 +1689,7 @@ export const countries: Country[] = [
     nombre: "Lolol",
     lat: -34.7689,
     lng: -71.6453,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Lolol",
     code_padre: "063",
   },
   {
@@ -1698,7 +1698,7 @@ export const countries: Country[] = [
     nombre: "Loncoche",
     lat: -39.3681,
     lng: -72.6315,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Loncoche",
     code_padre: "091",
   },
   {
@@ -1707,7 +1707,7 @@ export const countries: Country[] = [
     nombre: "Longavi",
     lat: -35.9657,
     lng: -71.6816,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Longav%C3%AD",
     code_padre: "074",
   },
   {
@@ -1716,7 +1716,7 @@ export const countries: Country[] = [
     nombre: "Lonquimay",
     lat: -38.4501,
     lng: -71.374,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Lonquimay",
     code_padre: "092",
   },
   {
@@ -1725,7 +1725,7 @@ export const countries: Country[] = [
     nombre: "Los Alamos",
     lat: -37.6747,
     lng: -73.3896,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Los_%C3%81lamos_(Chile)",
     code_padre: "082",
   },
   {
@@ -1734,7 +1734,7 @@ export const countries: Country[] = [
     nombre: "Los Andes",
     lat: -32.8347,
     lng: -70.5971,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Los_Andes_(Chile)",
     code_padre: "053",
   },
   {
@@ -1743,7 +1743,7 @@ export const countries: Country[] = [
     nombre: "Los Angeles",
     lat: -37.473,
     lng: -72.3507,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Los_%C3%81ngeles_(Chile)",
     code_padre: "083",
   },
   {
@@ -1752,7 +1752,7 @@ export const countries: Country[] = [
     nombre: "Los Lagos",
     lat: -39.8636,
     lng: -72.8124,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Los_Lagos_(Chile)",
     code_padre: "141",
   },
   {
@@ -1761,7 +1761,7 @@ export const countries: Country[] = [
     nombre: "Los Muermos",
     lat: -41.3997,
     lng: -73.4651,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Los_Muermos",
     code_padre: "101",
   },
   {
@@ -1770,7 +1770,7 @@ export const countries: Country[] = [
     nombre: "Los Sauces",
     lat: -37.9754,
     lng: -72.8288,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Los_Sauces",
     code_padre: "092",
   },
   {
@@ -1779,7 +1779,7 @@ export const countries: Country[] = [
     nombre: "Los Vilos",
     lat: -31.9157,
     lng: -71.5107,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Los_Vilos",
     code_padre: "042",
   },
   {
@@ -1788,7 +1788,7 @@ export const countries: Country[] = [
     nombre: "Lota",
     lat: -37.0906,
     lng: -73.1547,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Lota",
     code_padre: "081",
   },
   {
@@ -1797,7 +1797,7 @@ export const countries: Country[] = [
     nombre: "Lumaco",
     lat: -38.1636,
     lng: -72.8918,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Lumaco",
     code_padre: "092",
   },
   {
@@ -1806,7 +1806,7 @@ export const countries: Country[] = [
     nombre: "Machali",
     lat: -34.2938,
     lng: -70.3371,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Machal%C3%AD",
     code_padre: "061",
   },
   {
@@ -1815,7 +1815,7 @@ export const countries: Country[] = [
     nombre: "Macul",
     lat: -33.492,
     lng: -70.5968,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Macul",
     code_padre: "131",
   },
   {
@@ -1824,7 +1824,7 @@ export const countries: Country[] = [
     nombre: "Mafil",
     lat: -39.6654,
     lng: -72.9575,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/M%C3%A1fil",
     code_padre: "141",
   },
   {
@@ -1833,7 +1833,7 @@ export const countries: Country[] = [
     nombre: "Maipu",
     lat: -33.5213,
     lng: -70.7572,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Maip%C3%BA_(Chile)",
     code_padre: "131",
   },
   {
@@ -1842,7 +1842,7 @@ export const countries: Country[] = [
     nombre: "Malloa",
     lat: -34.4455,
     lng: -70.9449,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Malloa",
     code_padre: "061",
   },
   {
@@ -1851,7 +1851,7 @@ export const countries: Country[] = [
     nombre: "Marchihue",
     lat: -34.3979,
     lng: -71.6144,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Marchig%C3%BCe",
     code_padre: "062",
   },
   {
@@ -1860,7 +1860,7 @@ export const countries: Country[] = [
     nombre: "Maria Elena",
     lat: -22.1639,
     lng: -69.4171,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Mar%C3%ADa_Elena_(Chile)",
     code_padre: "023",
   },
   {
@@ -1869,7 +1869,7 @@ export const countries: Country[] = [
     nombre: "Maria Pinto",
     lat: -33.5154,
     lng: -71.1191,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Mar%C3%ADa_Pinto",
     code_padre: "135",
   },
   {
@@ -1878,7 +1878,7 @@ export const countries: Country[] = [
     nombre: "Mariquina",
     lat: -39.5399,
     lng: -72.9621,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Mariquina_(Chile)",
     code_padre: "141",
   },
   {
@@ -1887,7 +1887,7 @@ export const countries: Country[] = [
     nombre: "Maule",
     lat: -35.5057,
     lng: -71.7069,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Maule_(comuna)",
     code_padre: "071",
   },
   {
@@ -1896,7 +1896,7 @@ export const countries: Country[] = [
     nombre: "Maullin",
     lat: -41.6172,
     lng: -73.5956,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Maull%C3%ADn",
     code_padre: "101",
   },
   {
@@ -1905,7 +1905,7 @@ export const countries: Country[] = [
     nombre: "Mejillones",
     lat: -23.0962,
     lng: -70.4498,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Mejillones",
     code_padre: "021",
   },
   {
@@ -1914,7 +1914,7 @@ export const countries: Country[] = [
     nombre: "Melipeuco",
     lat: -38.8429,
     lng: -71.6871,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Melipeuco",
     code_padre: "091",
   },
   {
@@ -1923,7 +1923,7 @@ export const countries: Country[] = [
     nombre: "Melipilla",
     lat: -33.6866,
     lng: -71.2139,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Melipilla",
     code_padre: "135",
   },
   {
@@ -1932,7 +1932,7 @@ export const countries: Country[] = [
     nombre: "Molina",
     lat: -35.0896,
     lng: -71.2788,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Molina_(Chile)",
     code_padre: "073",
   },
   {
@@ -1941,7 +1941,7 @@ export const countries: Country[] = [
     nombre: "Monte Patria",
     lat: -30.8291,
     lng: -70.6984,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Monte_Patria",
     code_padre: "043",
   },
   {
@@ -1950,7 +1950,7 @@ export const countries: Country[] = [
     nombre: "Mostazal",
     lat: -33.9772,
     lng: -70.7092,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Mostazal",
     code_padre: "061",
   },
   {
@@ -1959,7 +1959,7 @@ export const countries: Country[] = [
     nombre: "Mulchen",
     lat: -37.7147,
     lng: -72.2394,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Mulch%C3%A9n",
     code_padre: "083",
   },
   {
@@ -1968,7 +1968,7 @@ export const countries: Country[] = [
     nombre: "Nacimiento",
     lat: -37.5011,
     lng: -72.6763,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Nacimiento_(Chile)",
     code_padre: "083",
   },
   {
@@ -1977,7 +1977,7 @@ export const countries: Country[] = [
     nombre: "Nancagua",
     lat: -34.6615,
     lng: -71.1749,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Nancagua",
     code_padre: "063",
   },
   {
@@ -1986,7 +1986,7 @@ export const countries: Country[] = [
     nombre: "Natales",
     lat: -51.7219,
     lng: -72.5208,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Natales",
     code_padre: "124",
   },
   {
@@ -1995,7 +1995,7 @@ export const countries: Country[] = [
     nombre: "Navidad",
     lat: -34.0068,
     lng: -71.8101,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Navidad_(Chile)",
     code_padre: "062",
   },
   {
@@ -2004,7 +2004,7 @@ export const countries: Country[] = [
     nombre: "Negrete",
     lat: -37.5974,
     lng: -72.5646,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Negrete",
     code_padre: "083",
   },
   {
@@ -2013,7 +2013,7 @@ export const countries: Country[] = [
     nombre: "Ninhue",
     lat: -36.4011,
     lng: -72.397,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Ninhue",
     code_padre: "162",
   },
   {
@@ -2022,7 +2022,7 @@ export const countries: Country[] = [
     nombre: "Niquen",
     lat: -36.2848,
     lng: -71.8994,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/%C3%91iqu%C3%A9n",
     code_padre: "163",
   },
   {
@@ -2031,7 +2031,7 @@ export const countries: Country[] = [
     nombre: "Nogales",
     lat: -32.6923,
     lng: -71.1894,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Nogales_(Chile)",
     code_padre: "055",
   },
   {
@@ -2040,7 +2040,7 @@ export const countries: Country[] = [
     nombre: "Nueva Imperial",
     lat: -38.7445,
     lng: -72.9482,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Nueva_Imperial",
     code_padre: "091",
   },
   {
@@ -2049,7 +2049,7 @@ export const countries: Country[] = [
     nombre: "Nunoa",
     lat: -33.4607,
     lng: -70.5927,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/%C3%91u%C3%B1oa",
     code_padre: "131",
   },
   {
@@ -2058,7 +2058,7 @@ export const countries: Country[] = [
     nombre: "Olivar",
     lat: -34.2186,
     lng: -70.8355,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Olivar_(Chile)",
     code_padre: "061",
   },
   {
@@ -2067,7 +2067,7 @@ export const countries: Country[] = [
     nombre: "Ollagüe",
     lat: -21.2238,
     lng: -68.2529,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Ollag%C3%BCe",
     code_padre: "022",
   },
   {
@@ -2076,7 +2076,7 @@ export const countries: Country[] = [
     nombre: "Olmue",
     lat: -33.0132,
     lng: -71.1525,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Olmu%C3%A9",
     code_padre: "058",
   },
   {
@@ -2085,7 +2085,7 @@ export const countries: Country[] = [
     nombre: "Osorno",
     lat: -40.5747,
     lng: -73.1319,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Osorno",
     code_padre: "103",
   },
   {
@@ -2094,7 +2094,7 @@ export const countries: Country[] = [
     nombre: "Ovalle",
     lat: -30.5942,
     lng: -71.1983,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Ovalle",
     code_padre: "043",
   },
   {
@@ -2103,7 +2103,7 @@ export const countries: Country[] = [
     nombre: "O'Higgins",
     lat: -48.4643,
     lng: -72.5613,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/O%27Higgins_(comuna)",
     code_padre: "113",
   },
   {
@@ -2112,7 +2112,7 @@ export const countries: Country[] = [
     nombre: "Padre Hurtado",
     lat: -33.5761,
     lng: -70.8003,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Padre_Hurtado_(comuna)",
     code_padre: "136",
   },
   {
@@ -2121,16 +2121,16 @@ export const countries: Country[] = [
     nombre: "Padre las Casas",
     lat: -38.7658,
     lng: -72.5929,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Padre_Las_Casas",
     code_padre: "091",
   },
   {
     code: "04105",
     tipo: "comuna",
-    nombre: "Paiguano",
+    nombre: "Paihuano",
     lat: -30.2496,
     lng: -70.3832,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Paihuano",
     code_padre: "041",
   },
   {
@@ -2139,7 +2139,7 @@ export const countries: Country[] = [
     nombre: "Paillaco",
     lat: -40.0707,
     lng: -72.8708,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Paillaco",
     code_padre: "141",
   },
   {
@@ -2148,7 +2148,7 @@ export const countries: Country[] = [
     nombre: "Paine",
     lat: -33.8673,
     lng: -70.7303,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Paine",
     code_padre: "134",
   },
   {
@@ -2157,7 +2157,7 @@ export const countries: Country[] = [
     nombre: "Palena",
     lat: -43.6162,
     lng: -71.8176,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Palena_(comuna)",
     code_padre: "104",
   },
   {
@@ -2166,7 +2166,7 @@ export const countries: Country[] = [
     nombre: "Palmilla",
     lat: -34.6042,
     lng: -71.3583,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Palmilla_(comuna)",
     code_padre: "063",
   },
   {
@@ -2175,7 +2175,7 @@ export const countries: Country[] = [
     nombre: "Panguipulli",
     lat: -39.6436,
     lng: -72.3365,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Panguipulli",
     code_padre: "141",
   },
   {
@@ -2184,7 +2184,7 @@ export const countries: Country[] = [
     nombre: "Panquehue",
     lat: -32.8079,
     lng: -70.8428,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Panquehue_(Chile)",
     code_padre: "057",
   },
   {
@@ -2193,7 +2193,7 @@ export const countries: Country[] = [
     nombre: "Papudo",
     lat: -32.4699,
     lng: -71.3842,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Papudo",
     code_padre: "054",
   },
   {
@@ -2202,7 +2202,7 @@ export const countries: Country[] = [
     nombre: "Paredones",
     lat: -34.6972,
     lng: -71.8978,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Paredones",
     code_padre: "062",
   },
   {
@@ -2211,7 +2211,7 @@ export const countries: Country[] = [
     nombre: "Parral",
     lat: -36.14,
     lng: -71.8244,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Parral_(Chile)",
     code_padre: "074",
   },
   {
@@ -2220,7 +2220,7 @@ export const countries: Country[] = [
     nombre: "Pedro Aguirre Cerda",
     lat: -33.4891,
     lng: -70.6729,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pedro_Aguirre_Cerda_(comuna)",
     code_padre: "131",
   },
   {
@@ -2229,7 +2229,7 @@ export const countries: Country[] = [
     nombre: "Pelarco",
     lat: -35.3723,
     lng: -71.3278,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pelarco",
     code_padre: "071",
   },
   {
@@ -2238,7 +2238,7 @@ export const countries: Country[] = [
     nombre: "Pelluhue",
     lat: -35.8145,
     lng: -72.5736,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pelluhue",
     code_padre: "072",
   },
   {
@@ -2247,7 +2247,7 @@ export const countries: Country[] = [
     nombre: "Pemuco",
     lat: -36.9865,
     lng: -72.0191,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pemuco",
     code_padre: "161",
   },
   {
@@ -2256,7 +2256,7 @@ export const countries: Country[] = [
     nombre: "Penaflor",
     lat: -33.6141,
     lng: -70.8876,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pe%C3%B1aflor_(Chile)",
     code_padre: "136",
   },
   {
@@ -2265,7 +2265,7 @@ export const countries: Country[] = [
     nombre: "Penalolen",
     lat: -33.4904,
     lng: -70.5105,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pe%C3%B1alol%C3%A9n",
     code_padre: "131",
   },
   {
@@ -2274,7 +2274,7 @@ export const countries: Country[] = [
     nombre: "Pencahue",
     lat: -35.3051,
     lng: -71.8284,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pencahue",
     code_padre: "071",
   },
   {
@@ -2283,7 +2283,7 @@ export const countries: Country[] = [
     nombre: "Penco",
     lat: -36.7423,
     lng: -72.998,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Penco",
     code_padre: "081",
   },
   {
@@ -2292,7 +2292,7 @@ export const countries: Country[] = [
     nombre: "Peralillo",
     lat: -34.4593,
     lng: -71.5,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Peralillo_(Chile)",
     code_padre: "063",
   },
   {
@@ -2301,7 +2301,7 @@ export const countries: Country[] = [
     nombre: "Perquenco",
     lat: -38.4154,
     lng: -72.3725,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Perquenco",
     code_padre: "091",
   },
   {
@@ -2310,7 +2310,7 @@ export const countries: Country[] = [
     nombre: "Petorca",
     lat: -32.1965,
     lng: -70.8318,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Petorca",
     code_padre: "054",
   },
   {
@@ -2319,7 +2319,7 @@ export const countries: Country[] = [
     nombre: "Peumo",
     lat: -34.3798,
     lng: -71.1687,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Peumo",
     code_padre: "061",
   },
   {
@@ -2328,7 +2328,7 @@ export const countries: Country[] = [
     nombre: "Pica",
     lat: -20.4889,
     lng: -69.3289,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pica_(Chile)",
     code_padre: "014",
   },
   {
@@ -2337,7 +2337,7 @@ export const countries: Country[] = [
     nombre: "Pichidegua",
     lat: -34.3758,
     lng: -71.3469,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pichidegua",
     code_padre: "061",
   },
   {
@@ -2346,7 +2346,7 @@ export const countries: Country[] = [
     nombre: "Pichilemu",
     lat: -34.3869,
     lng: -72.0032,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pichilemu",
     code_padre: "062",
   },
   {
@@ -2355,7 +2355,7 @@ export const countries: Country[] = [
     nombre: "Pinto",
     lat: -36.6978,
     lng: -71.8934,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pinto_(Chile)",
     code_padre: "161",
   },
   {
@@ -2364,7 +2364,7 @@ export const countries: Country[] = [
     nombre: "Pirque",
     lat: -33.7384,
     lng: -70.4914,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pirque",
     code_padre: "132",
   },
   {
@@ -2373,7 +2373,7 @@ export const countries: Country[] = [
     nombre: "Pitrufquen",
     lat: -38.9829,
     lng: -72.6429,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pitrufqu%C3%A9n",
     code_padre: "091",
   },
   {
@@ -2382,7 +2382,7 @@ export const countries: Country[] = [
     nombre: "Placilla",
     lat: -34.6135,
     lng: -71.0951,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Placilla",
     code_padre: "063",
   },
   {
@@ -2391,7 +2391,7 @@ export const countries: Country[] = [
     nombre: "Portezuelo",
     lat: -36.529,
     lng: -72.433,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Portezuelo_(Chile)",
     code_padre: "162",
   },
   {
@@ -2400,7 +2400,7 @@ export const countries: Country[] = [
     nombre: "Porvenir",
     lat: -53.2898,
     lng: -70.3633,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Porvenir",
     code_padre: "123",
   },
   {
@@ -2409,7 +2409,7 @@ export const countries: Country[] = [
     nombre: "Pozo Almonte",
     lat: -20.2532,
     lng: -69.7848,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pozo_Almonte",
     code_padre: "014",
   },
   {
@@ -2418,7 +2418,7 @@ export const countries: Country[] = [
     nombre: "Primavera",
     lat: -52.7122,
     lng: -69.2496,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Primavera_(Chile)",
     code_padre: "123",
   },
   {
@@ -2427,7 +2427,7 @@ export const countries: Country[] = [
     nombre: "Providencia",
     lat: -33.4214,
     lng: -70.6033,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Providencia_(Chile)",
     code_padre: "131",
   },
   {
@@ -2436,7 +2436,7 @@ export const countries: Country[] = [
     nombre: "Puchuncavi",
     lat: -32.7499,
     lng: -71.396,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Puchuncav%C3%AD",
     code_padre: "051",
   },
   {
@@ -2445,7 +2445,7 @@ export const countries: Country[] = [
     nombre: "Pucon",
     lat: -39.2824,
     lng: -71.9545,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Puc%C3%B3n",
     code_padre: "091",
   },
   {
@@ -2454,7 +2454,7 @@ export const countries: Country[] = [
     nombre: "Pudahuel",
     lat: -33.4184,
     lng: -70.8324,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pudahuel",
     code_padre: "131",
   },
   {
@@ -2463,7 +2463,7 @@ export const countries: Country[] = [
     nombre: "Puente Alto",
     lat: -33.6079,
     lng: -70.5778,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Puente_Alto",
     code_padre: "132",
   },
   {
@@ -2472,7 +2472,7 @@ export const countries: Country[] = [
     nombre: "Puerto Montt",
     lat: -41.4633,
     lng: -72.9314,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Puerto_Montt",
     code_padre: "101",
   },
   {
@@ -2481,7 +2481,7 @@ export const countries: Country[] = [
     nombre: "Puerto Octay",
     lat: -40.9755,
     lng: -72.8833,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Puerto_Octay",
     code_padre: "103",
   },
   {
@@ -2490,7 +2490,7 @@ export const countries: Country[] = [
     nombre: "Puerto Varas",
     lat: -41.316,
     lng: -72.9836,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Puerto_Varas",
     code_padre: "101",
   },
   {
@@ -2499,7 +2499,7 @@ export const countries: Country[] = [
     nombre: "Pumanque",
     lat: -34.6052,
     lng: -71.6443,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pumanque",
     code_padre: "063",
   },
   {
@@ -2508,7 +2508,7 @@ export const countries: Country[] = [
     nombre: "Punitaqui",
     lat: -30.8256,
     lng: -71.2585,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Punitaqui",
     code_padre: "043",
   },
   {
@@ -2517,7 +2517,7 @@ export const countries: Country[] = [
     nombre: "Punta Arenas",
     lat: -53.1641,
     lng: -70.9305,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Punta_Arenas_(comuna)",
     code_padre: "121",
   },
   {
@@ -2526,7 +2526,7 @@ export const countries: Country[] = [
     nombre: "Puqueldon",
     lat: -42.6015,
     lng: -73.6714,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Puqueld%C3%B3n",
     code_padre: "102",
   },
   {
@@ -2535,7 +2535,7 @@ export const countries: Country[] = [
     nombre: "Puren",
     lat: -38.0326,
     lng: -73.0728,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Pur%C3%A9n",
     code_padre: "092",
   },
   {
@@ -2544,7 +2544,7 @@ export const countries: Country[] = [
     nombre: "Purranque",
     lat: -40.9085,
     lng: -73.1653,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Purranque",
     code_padre: "103",
   },
   {
@@ -2553,7 +2553,7 @@ export const countries: Country[] = [
     nombre: "Putaendo",
     lat: -32.6279,
     lng: -70.7165,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Putaendo",
     code_padre: "057",
   },
   {
@@ -2562,7 +2562,7 @@ export const countries: Country[] = [
     nombre: "Putre",
     lat: -18.1798,
     lng: -69.5544,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Putre",
     code_padre: "152",
   },
   {
@@ -2571,7 +2571,7 @@ export const countries: Country[] = [
     nombre: "Puyehue",
     lat: -40.6806,
     lng: -72.599,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Puyehue_(comuna)",
     code_padre: "103",
   },
   {
@@ -2580,7 +2580,7 @@ export const countries: Country[] = [
     nombre: "Queilen",
     lat: -42.9001,
     lng: -73.4827,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Queil%C3%A9n",
     code_padre: "102",
   },
   {
@@ -2589,7 +2589,7 @@ export const countries: Country[] = [
     nombre: "Quellon",
     lat: -43.1156,
     lng: -73.6172,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Quell%C3%B3n",
     code_padre: "102",
   },
   {
@@ -2598,7 +2598,7 @@ export const countries: Country[] = [
     nombre: "Quemchi",
     lat: -42.1426,
     lng: -73.475,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Quemchi",
     code_padre: "102",
   },
   {
@@ -2607,7 +2607,7 @@ export const countries: Country[] = [
     nombre: "Quilaco",
     lat: -37.6799,
     lng: -72.0074,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Quilaco",
     code_padre: "083",
   },
   {
@@ -2616,7 +2616,7 @@ export const countries: Country[] = [
     nombre: "Quilicura",
     lat: -33.3551,
     lng: -70.7278,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Quilicura",
     code_padre: "131",
   },
   {
@@ -2625,7 +2625,7 @@ export const countries: Country[] = [
     nombre: "Quilleco",
     lat: -37.4335,
     lng: -71.8761,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Quilleco",
     code_padre: "083",
   },
   {
@@ -2634,7 +2634,7 @@ export const countries: Country[] = [
     nombre: "Quillon",
     lat: -36.7383,
     lng: -72.469,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Quill%C3%B3n_(comuna)",
     code_padre: "161",
   },
   {
@@ -2643,7 +2643,7 @@ export const countries: Country[] = [
     nombre: "Quillota",
     lat: -32.8793,
     lng: -71.2508,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Quillota",
     code_padre: "055",
   },
   {
@@ -2652,7 +2652,7 @@ export const countries: Country[] = [
     nombre: "Quilpue",
     lat: -33.0492,
     lng: -71.4435,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Quilpu%C3%A9",
     code_padre: "058",
   },
   {
@@ -2661,7 +2661,7 @@ export const countries: Country[] = [
     nombre: "Quinchao",
     lat: -42.472,
     lng: -73.4898,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Quinchao_(comuna)",
     code_padre: "102",
   },
   {
@@ -2670,7 +2670,7 @@ export const countries: Country[] = [
     nombre: "Quinta de Tilcoco",
     lat: -34.367,
     lng: -71.0096,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Quinta_de_Tilcoco",
     code_padre: "061",
   },
   {
@@ -2679,7 +2679,7 @@ export const countries: Country[] = [
     nombre: "Quinta Normal",
     lat: -33.428,
     lng: -70.6964,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Quinta_Normal",
     code_padre: "131",
   },
   {
@@ -2688,7 +2688,7 @@ export const countries: Country[] = [
     nombre: "Quintero",
     lat: -32.7872,
     lng: -71.5274,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Quinta_Normal",
     code_padre: "051",
   },
   {
@@ -2697,7 +2697,7 @@ export const countries: Country[] = [
     nombre: "Quirihue",
     lat: -36.2839,
     lng: -72.5414,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Quirihue",
     code_padre: "162",
   },
   {
@@ -2706,7 +2706,7 @@ export const countries: Country[] = [
     nombre: "Rancagua",
     lat: -34.162,
     lng: -70.741,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Rancagua",
     code_padre: "061",
   },
   {
@@ -2715,7 +2715,7 @@ export const countries: Country[] = [
     nombre: "Ranquil",
     lat: -36.6485,
     lng: -72.6064,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/R%C3%A1nquil",
     code_padre: "162",
   },
   {
@@ -2724,7 +2724,7 @@ export const countries: Country[] = [
     nombre: "Rauco",
     lat: -34.9295,
     lng: -71.3111,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Rauco",
     code_padre: "073",
   },
   {
@@ -2733,7 +2733,7 @@ export const countries: Country[] = [
     nombre: "Recoleta",
     lat: -33.4173,
     lng: -70.6303,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Recoleta_(Chile)",
     code_padre: "131",
   },
   {
@@ -2742,7 +2742,7 @@ export const countries: Country[] = [
     nombre: "Renaico",
     lat: -37.6654,
     lng: -72.5687,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Renaico",
     code_padre: "092",
   },
   {
@@ -2751,7 +2751,7 @@ export const countries: Country[] = [
     nombre: "Renca",
     lat: -33.4141,
     lng: -70.7129,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Renca_(Chile)",
     code_padre: "131",
   },
   {
@@ -2760,7 +2760,7 @@ export const countries: Country[] = [
     nombre: "Rengo",
     lat: -34.4017,
     lng: -70.8561,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Rengo",
     code_padre: "061",
   },
   {
@@ -2769,7 +2769,7 @@ export const countries: Country[] = [
     nombre: "Requinoa",
     lat: -34.3533,
     lng: -70.6797,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Requ%C3%ADnoa",
     code_padre: "061",
   },
   {
@@ -2778,7 +2778,7 @@ export const countries: Country[] = [
     nombre: "Retiro",
     lat: -36.0458,
     lng: -71.7591,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Retiro_(Chile)",
     code_padre: "074",
   },
   {
@@ -2787,7 +2787,7 @@ export const countries: Country[] = [
     nombre: "Rinconada",
     lat: -32.8765,
     lng: -70.7085,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Rinconada_(Los_Andes)",
     code_padre: "053",
   },
   {
@@ -2796,7 +2796,7 @@ export const countries: Country[] = [
     nombre: "Rio Bueno",
     lat: -40.333,
     lng: -72.9513,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/R%C3%ADo_Bueno_(comuna)",
     code_padre: "142",
   },
   {
@@ -2805,7 +2805,7 @@ export const countries: Country[] = [
     nombre: "Rio Claro",
     lat: -35.2827,
     lng: -71.2665,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/R%C3%ADo_Claro_(comuna)",
     code_padre: "071",
   },
   {
@@ -2814,7 +2814,7 @@ export const countries: Country[] = [
     nombre: "Rio Hurtado",
     lat: -30.2603,
     lng: -70.6668,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/R%C3%ADo_Hurtado_(comuna)",
     code_padre: "043",
   },
   {
@@ -2823,7 +2823,7 @@ export const countries: Country[] = [
     nombre: "Rio Ibanez",
     lat: -46.2938,
     lng: -71.9357,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/R%C3%ADo_Ib%C3%A1%C3%B1ez_(comuna)",
     code_padre: "114",
   },
   {
@@ -2832,7 +2832,7 @@ export const countries: Country[] = [
     nombre: "Rio Negro",
     lat: -40.7829,
     lng: -73.2319,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/R%C3%ADo_Negro_(comuna)",
     code_padre: "103",
   },
   {
@@ -2841,7 +2841,7 @@ export const countries: Country[] = [
     nombre: "Rio Verde",
     lat: -52.5814,
     lng: -71.5128,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/R%C3%ADo_Verde_(comuna)",
     code_padre: "121",
   },
   {
@@ -2850,7 +2850,7 @@ export const countries: Country[] = [
     nombre: "Romeral",
     lat: -34.9634,
     lng: -71.1205,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Romeral",
     code_padre: "073",
   },
   {
@@ -2859,7 +2859,7 @@ export const countries: Country[] = [
     nombre: "Saavedra",
     lat: -38.7803,
     lng: -73.3897,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Saavedra_(Chile)",
     code_padre: "091",
   },
   {
@@ -2868,7 +2868,7 @@ export const countries: Country[] = [
     nombre: "Sagrada Familia",
     lat: -34.9949,
     lng: -71.3798,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Sagrada_Familia_(Chile)",
     code_padre: "073",
   },
   {
@@ -2877,7 +2877,7 @@ export const countries: Country[] = [
     nombre: "Salamanca",
     lat: -31.7737,
     lng: -70.9717,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Salamanca_(Chile)",
     code_padre: "042",
   },
   {
@@ -2886,7 +2886,7 @@ export const countries: Country[] = [
     nombre: "San Antonio",
     lat: -33.5812,
     lng: -71.613,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Antonio_(Chile)",
     code_padre: "056",
   },
   {
@@ -2895,7 +2895,7 @@ export const countries: Country[] = [
     nombre: "San Bernardo",
     lat: -33.5913,
     lng: -70.702,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Bernardo_(Chile)",
     code_padre: "134",
   },
   {
@@ -2904,7 +2904,7 @@ export const countries: Country[] = [
     nombre: "San Carlos",
     lat: -36.4221,
     lng: -71.9594,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Carlos_(Chile)",
     code_padre: "163",
   },
   {
@@ -2913,7 +2913,7 @@ export const countries: Country[] = [
     nombre: "San Clemente",
     lat: -35.534,
     lng: -71.4865,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Clemente_(Chile)",
     code_padre: "071",
   },
   {
@@ -2922,7 +2922,7 @@ export const countries: Country[] = [
     nombre: "San Esteban",
     lat: -32.693,
     lng: -70.3703,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Esteban_(Chile)",
     code_padre: "053",
   },
   {
@@ -2931,7 +2931,7 @@ export const countries: Country[] = [
     nombre: "San Fabian",
     lat: -36.5538,
     lng: -71.5487,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Fabi%C3%A1n_(Chile)",
     code_padre: "163",
   },
   {
@@ -2940,7 +2940,7 @@ export const countries: Country[] = [
     nombre: "San Felipe",
     lat: -32.7464,
     lng: -70.7489,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Felipe_(Chile)",
     code_padre: "057",
   },
   {
@@ -2949,7 +2949,7 @@ export const countries: Country[] = [
     nombre: "San Fernando",
     lat: -34.584,
     lng: -70.9874,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Fernando_(Chile)",
     code_padre: "063",
   },
   {
@@ -2958,7 +2958,7 @@ export const countries: Country[] = [
     nombre: "San Gregorio",
     lat: -52.3135,
     lng: -69.6842,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Gregorio_(comuna)",
     code_padre: "121",
   },
   {
@@ -2967,7 +2967,7 @@ export const countries: Country[] = [
     nombre: "San Ignacio",
     lat: -36.8186,
     lng: -71.9883,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Ignacio_(comuna)",
     code_padre: "161",
   },
   {
@@ -2976,7 +2976,7 @@ export const countries: Country[] = [
     nombre: "San Javier",
     lat: -35.6035,
     lng: -71.7362,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Javier_de_Loncomilla",
     code_padre: "074",
   },
   {
@@ -2985,7 +2985,7 @@ export const countries: Country[] = [
     nombre: "San Joaquin",
     lat: -33.4961,
     lng: -70.6245,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Joaqu%C3%ADn_(Chile)",
     code_padre: "131",
   },
   {
@@ -2994,7 +2994,7 @@ export const countries: Country[] = [
     nombre: "San Jose de Maipo",
     lat: -33.6921,
     lng: -70.1325,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Jos%C3%A9_de_Maipo",
     code_padre: "132",
   },
   {
@@ -3003,7 +3003,7 @@ export const countries: Country[] = [
     nombre: "San Juan de la Costa",
     lat: -40.5156,
     lng: -73.3997,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Juan_de_la_Costa",
     code_padre: "103",
   },
   {
@@ -3012,7 +3012,7 @@ export const countries: Country[] = [
     nombre: "San Miguel",
     lat: -33.5017,
     lng: -70.6489,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Miguel_(Chile)",
     code_padre: "131",
   },
   {
@@ -3021,7 +3021,7 @@ export const countries: Country[] = [
     nombre: "San Nicolas",
     lat: -36.4996,
     lng: -72.2126,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Nicol%C3%A1s_(comuna)",
     code_padre: "163",
   },
   {
@@ -3030,7 +3030,7 @@ export const countries: Country[] = [
     nombre: "San Pablo",
     lat: -40.4118,
     lng: -73.0102,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Pablo_(Chile)",
     code_padre: "103",
   },
   {
@@ -3039,7 +3039,7 @@ export const countries: Country[] = [
     nombre: "San Pedro",
     lat: -33.8779,
     lng: -71.4609,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Pedro_(Chile)",
     code_padre: "135",
   },
   {
@@ -3048,7 +3048,7 @@ export const countries: Country[] = [
     nombre: "San Pedro de Atacama",
     lat: -22.9157,
     lng: -68.2004,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Pedro_de_Atacama",
     code_padre: "022",
   },
   {
@@ -3057,7 +3057,7 @@ export const countries: Country[] = [
     nombre: "San Pedro de la Paz",
     lat: -36.8635,
     lng: -73.1085,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Pedro_de_la_Paz",
     code_padre: "081",
   },
   {
@@ -3066,7 +3066,7 @@ export const countries: Country[] = [
     nombre: "San Rafael",
     lat: -35.2942,
     lng: -71.5254,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Rafael_(Chile)",
     code_padre: "071",
   },
   {
@@ -3075,7 +3075,7 @@ export const countries: Country[] = [
     nombre: "San Ramon",
     lat: -33.5349,
     lng: -70.6392,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Ram%C3%B3n_(Chile)",
     code_padre: "131",
   },
   {
@@ -3084,7 +3084,7 @@ export const countries: Country[] = [
     nombre: "San Rosendo",
     lat: -37.2021,
     lng: -72.748,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Rosendo",
     code_padre: "083",
   },
   {
@@ -3093,7 +3093,7 @@ export const countries: Country[] = [
     nombre: "San Vicente",
     lat: -34.4381,
     lng: -71.0792,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/San_Vicente_de_Tagua_Tagua",
     code_padre: "061",
   },
   {
@@ -3102,7 +3102,7 @@ export const countries: Country[] = [
     nombre: "Santa Barbara",
     lat: -37.6627,
     lng: -72.0184,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Santa_B%C3%A1rbara_(Chile)",
     code_padre: "083",
   },
   {
@@ -3111,7 +3111,7 @@ export const countries: Country[] = [
     nombre: "Santa Cruz",
     lat: -34.6383,
     lng: -71.367,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Santa_Cruz_(Chile)",
     code_padre: "063",
   },
   {
@@ -3120,7 +3120,7 @@ export const countries: Country[] = [
     nombre: "Santa Juana",
     lat: -37.1726,
     lng: -72.9352,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Santa_Juana_(Chile)",
     code_padre: "081",
   },
   {
@@ -3129,7 +3129,7 @@ export const countries: Country[] = [
     nombre: "Santa Maria",
     lat: -32.7446,
     lng: -70.654,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Santa_Mar%C3%ADa_(Chile)",
     code_padre: "057",
   },
   {
@@ -3138,7 +3138,7 @@ export const countries: Country[] = [
     nombre: "Santiago Centro",
     lat: -33.4417,
     lng: -70.6541,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Santiago_(comuna)",
     code_padre: "131",
   },
   {
@@ -3147,7 +3147,7 @@ export const countries: Country[] = [
     nombre: "Santo Domingo",
     lat: -33.7076,
     lng: -71.6301,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Santo_Domingo_(Chile)",
     code_padre: "056",
   },
   {
@@ -3156,7 +3156,7 @@ export const countries: Country[] = [
     nombre: "Sierra Gorda",
     lat: -22.8921,
     lng: -69.3203,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Sierra_Gorda_(Chile)",
     code_padre: "021",
   },
   {
@@ -3165,7 +3165,7 @@ export const countries: Country[] = [
     nombre: "Talagante",
     lat: -33.6643,
     lng: -70.9296,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Talagante",
     code_padre: "136",
   },
   {
@@ -3174,7 +3174,7 @@ export const countries: Country[] = [
     nombre: "Talca",
     lat: -35.4288,
     lng: -71.6607,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Talca",
     code_padre: "071",
   },
   {
@@ -3183,7 +3183,7 @@ export const countries: Country[] = [
     nombre: "Talcahuano",
     lat: -36.7364,
     lng: -73.1047,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Talcahuano",
     code_padre: "081",
   },
   {
@@ -3192,7 +3192,7 @@ export const countries: Country[] = [
     nombre: "Taltal",
     lat: -25.4054,
     lng: -70.4826,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Taltal",
     code_padre: "021",
   },
   {
@@ -3201,7 +3201,7 @@ export const countries: Country[] = [
     nombre: "Temuco",
     lat: -38.7362,
     lng: -72.5989,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Temuco",
     code_padre: "091",
   },
   {
@@ -3210,7 +3210,7 @@ export const countries: Country[] = [
     nombre: "Teno",
     lat: -34.8701,
     lng: -71.0895,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Teno_(Chile)",
     code_padre: "073",
   },
   {
@@ -3219,7 +3219,7 @@ export const countries: Country[] = [
     nombre: "Teodoro Schmidt",
     lat: -38.9989,
     lng: -73.093,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Teodoro_Schmidt_(comuna)",
     code_padre: "091",
   },
   {
@@ -3228,7 +3228,7 @@ export const countries: Country[] = [
     nombre: "Tierra Amarilla",
     lat: -27.4877,
     lng: -70.2696,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Tierra_Amarilla",
     code_padre: "031",
   },
   {
@@ -3237,7 +3237,7 @@ export const countries: Country[] = [
     nombre: "Tiltil",
     lat: -33.0655,
     lng: -70.8465,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Til_Til",
     code_padre: "133",
   },
   {
@@ -3246,7 +3246,7 @@ export const countries: Country[] = [
     nombre: "Timaukel",
     lat: -54.2877,
     lng: -69.1644,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Timaukel",
     code_padre: "123",
   },
   {
@@ -3255,7 +3255,7 @@ export const countries: Country[] = [
     nombre: "Tirua",
     lat: -38.3315,
     lng: -73.3794,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Tir%C3%BAa",
     code_padre: "082",
   },
   {
@@ -3264,7 +3264,7 @@ export const countries: Country[] = [
     nombre: "Tocopilla",
     lat: -22.0858,
     lng: -70.193,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Tocopilla",
     code_padre: "023",
   },
   {
@@ -3273,7 +3273,7 @@ export const countries: Country[] = [
     nombre: "Tolten",
     lat: -39.2022,
     lng: -73.2004,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Tolt%C3%A9n",
     code_padre: "091",
   },
   {
@@ -3282,7 +3282,7 @@ export const countries: Country[] = [
     nombre: "Tome",
     lat: -36.6177,
     lng: -72.9579,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Tom%C3%A9",
     code_padre: "081",
   },
   {
@@ -3291,7 +3291,7 @@ export const countries: Country[] = [
     nombre: "Torres del Paine",
     lat: -50.9896,
     lng: -73.0893,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Torres_del_Paine_(comuna)",
     code_padre: "124",
   },
   {
@@ -3300,7 +3300,7 @@ export const countries: Country[] = [
     nombre: "Tortel",
     lat: -47.8242,
     lng: -73.5645,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Tortel",
     code_padre: "113",
   },
   {
@@ -3309,7 +3309,7 @@ export const countries: Country[] = [
     nombre: "Traiguen",
     lat: -38.2509,
     lng: -72.6647,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Traigu%C3%A9n",
     code_padre: "092",
   },
   {
@@ -3318,7 +3318,7 @@ export const countries: Country[] = [
     nombre: "Treguaco",
     lat: -36.4095,
     lng: -72.6603,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Treguaco",
     code_padre: "162",
   },
   {
@@ -3327,7 +3327,7 @@ export const countries: Country[] = [
     nombre: "Tucapel",
     lat: -37.2901,
     lng: -71.9491,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Tucapel",
     code_padre: "083",
   },
   {
@@ -3336,7 +3336,7 @@ export const countries: Country[] = [
     nombre: "Valdivia",
     lat: -39.8201,
     lng: -73.2457,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Valdivia",
     code_padre: "141",
   },
   {
@@ -3345,7 +3345,7 @@ export const countries: Country[] = [
     nombre: "Vallenar",
     lat: -28.5777,
     lng: -70.7566,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Vallenar",
     code_padre: "033",
   },
   {
@@ -3354,7 +3354,7 @@ export const countries: Country[] = [
     nombre: "Valparaiso",
     lat: -33.0436,
     lng: -71.6231,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Valpara%C3%ADso",
     code_padre: "051",
   },
   {
@@ -3363,7 +3363,7 @@ export const countries: Country[] = [
     nombre: "Vichuquen",
     lat: -34.8594,
     lng: -72.0074,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Vichuqu%C3%A9n",
     code_padre: "073",
   },
   {
@@ -3372,7 +3372,7 @@ export const countries: Country[] = [
     nombre: "Victoria",
     lat: -38.2336,
     lng: -72.3329,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Victoria_(Chile)",
     code_padre: "092",
   },
   {
@@ -3381,7 +3381,7 @@ export const countries: Country[] = [
     nombre: "Vicuna",
     lat: -30.0287,
     lng: -70.7108,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Vicu%C3%B1a_(Chile)",
     code_padre: "041",
   },
   {
@@ -3390,7 +3390,7 @@ export const countries: Country[] = [
     nombre: "Vilcun",
     lat: -38.6701,
     lng: -72.2238,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Vilc%C3%BAn",
     code_padre: "091",
   },
   {
@@ -3399,7 +3399,7 @@ export const countries: Country[] = [
     nombre: "Villa Alegre",
     lat: -35.6868,
     lng: -71.6704,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Villa_Alegre",
     code_padre: "074",
   },
   {
@@ -3408,7 +3408,7 @@ export const countries: Country[] = [
     nombre: "Villa Alemana",
     lat: -33.0429,
     lng: -71.3724,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Villa_Alemana",
     code_padre: "058",
   },
   {
@@ -3417,7 +3417,7 @@ export const countries: Country[] = [
     nombre: "Villarrica",
     lat: -39.2803,
     lng: -72.2182,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Villarrica_(Chile)",
     code_padre: "091",
   },
   {
@@ -3426,7 +3426,7 @@ export const countries: Country[] = [
     nombre: "Vina del Mar",
     lat: -33.0445,
     lng: -71.5224,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Vi%C3%B1a_del_Mar",
     code_padre: "051",
   },
   {
@@ -3435,7 +3435,7 @@ export const countries: Country[] = [
     nombre: "Vitacura",
     lat: -33.3863,
     lng: -70.5698,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Vitacura",
     code_padre: "131",
   },
   {
@@ -3444,7 +3444,7 @@ export const countries: Country[] = [
     nombre: "Yerbas Buenas",
     lat: -35.6882,
     lng: -71.5636,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Yerbas_Buenas",
     code_padre: "074",
   },
   {
@@ -3453,7 +3453,7 @@ export const countries: Country[] = [
     nombre: "Yumbel",
     lat: -37.0964,
     lng: -72.5562,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Yumbel",
     code_padre: "083",
   },
   {
@@ -3462,7 +3462,7 @@ export const countries: Country[] = [
     nombre: "Yungay",
     lat: -37.122,
     lng: -72.0132,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Yungay_(comuna)",
     code_padre: "161",
   },
   {
@@ -3471,7 +3471,7 @@ export const countries: Country[] = [
     nombre: "Zapallar",
     lat: -32.5933,
     lng: -71.3686,
-    url: "",
+    url: "https://es.wikipedia.org/wiki/Zapallar",
     code_padre: "054",
   },
 ];
@@ -3741,6 +3741,10 @@ export function getCountryName(language: string, country: Country) {
     return frenchCountryNames[country.code];
   }
   return country.nombre;
+}
+
+export function getUrl(country: Country) {
+  return country.url;
 }
 
 export function sanitizeCountryName(countryName: string): string {

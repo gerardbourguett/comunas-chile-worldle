@@ -62,7 +62,7 @@ export function Infos({ isOpen, close, settingsData }: InfosProps) {
             Tu intento{" "}
             <span className="uppercase font-bold">Isla de Pascua</span> está a{" "}
             {formatDistance(3772000, settingsData.distanceUnit)} lejos de la
-            comuna de destino, está en dirección Este y tienes solo un 24% de
+            comuna de destino, está en dirección Este y tienes solo un 10% de
             proximidad. ¡Estás bastante lejos!
           </div>
         </div>
