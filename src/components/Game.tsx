@@ -205,10 +205,7 @@ export function Game({ settingsData, updateSettings }: GameProps) {
             />
             <a
               className="underline w-full text-center block mt-4"
-              href={`https://www.google.com/maps?q=${getCountryName(
-                i18n.resolvedLanguage,
-                country
-              )}`}
+              href={`https://www.openstreetmap.org/relation/${country.relacion}`}
               target="_blank"
               rel="noopener noreferrer"
             >
