@@ -25,14 +25,9 @@ module.exports = {
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "error",
     "prettier/prettier": [
-<<<<<<< HEAD
       "error",
       {
-        endOfLine: "auto",
-=======
-      'error', {
-        'endOfLine': 'auto',
->>>>>>> pruebas
+        'endOfLine': "auto",
       },
     ],
   },
