@@ -9,6 +9,7 @@ const forcedCountries: Record<string, string> = {
   "2022-02-02": "TD",
   "2022-02-03": "PY",
   "2022-03-24": "06116",
+  "2022-03-25": "08110",
 };
 
 export function getDayString(shiftDayCount?: number) {
