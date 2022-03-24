@@ -2,6 +2,7 @@
   "name": "comunas-chile-worldle",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://gerardbourguett.github.io/comunas-chile-worldle",
   "engines": {
     "node": "16.14.0"
   },
@@ -17,6 +18,7 @@
     "@types/react": "^17.0.38",
     "@types/react-dom": "^17.0.11",
     "geolib": "^3.3.3",
+    "gh-pages": "^3.2.3",
     "i18next": "^21.6.7",
     "i18next-browser-languagedetector": "^6.1.2",
     "luxon": "^2.3.0",
@@ -34,6 +36,8 @@
     "web-vitals": "^2.1.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
