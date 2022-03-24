@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg64"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="vector.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview66"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="361.34057"
+     inkscape:cy="345.8063"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs61" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="Isla_de_Pascua"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#d38d5f;stroke-width:5.97361;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 77.689375,192.22865 c 23.670355,-2.07496 42.052835,12.42832 62.162345,23.82841 10.38564,6.4798 25.3003,-2.99955 32.95508,8.725 3.06096,13.96342 -25.32559,17.29307 -36.31679,29.15196 -29.31249,-4.96727 -36.852105,10.85211 -59.100025,19.40461 -10.99436,1.93497 -13.62001,16.75954 -25.21427,17.1445 -8.99955,0.9212 -22.563566,-21.23708 -10.26101,-25.08016 19.59946,-21.05419 16.99052,-51.53195 35.77467,-73.17432 z M 112.00864,7.4799177 c -1.74306,0.22578 -2.02529,2.7035503 -0.98894,3.8415003 0.83992,1.45631 2.88056,0.51027 2.62475,-1.0499 0.55543,-1.8130503 4.08692,-0.4064103 3.61097,0.9641 -0.71574,1.27568 -1.75435,3.281329 -1.23956,4.640329 0.23933,1.64597 3.00249,2.40144 3.52766,0.41093 0.95056,-1.44954 2.10206,-2.4387 2.48883,-4.202759 0.46963,-1.655 -1.58727,-2.0952803 -2.68662,-2.6662903 -2.33258,-1.03861 -4.9431,-1.13344 -7.33687,-1.93949 z"
+       sodipodi:nodetypes="ccccccccccccccssc" />
+  </g>
+</svg>

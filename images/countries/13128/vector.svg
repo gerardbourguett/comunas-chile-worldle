@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1283"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="vector.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1285"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.52347032"
+     inkscape:cx="155.69173"
+     inkscape:cy="611.30496"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1280" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#d38d5f;stroke-width:2.97577;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Renca"
+       d="m 55.282272,110.86404 -6.18823,-4.29008 -46.7780796,48.74568 -0.76586,18.55018 19.0008296,0.14775 0.62796,2.35424 6.91051,0.14775 10.67852,-5.34012 16.80321,-0.14775 h 44.442558 l 4.71117,1.88388 6.90904,-4.39695 h 4.23983 l 0.0177,-3.64956 5.10298,0.24872 9.83335,-5.47507 h 17.42453 l 13.93972,10.45467 9.45831,9.83188 12.3218,7.84186 24.39439,10.9531 0.12312,-3.23584 -13.81511,-14.81025 -2.73741,-27.87919 -2.73914,-5.72576 -16.80321,-30.36912 -6.72065,-17.301636 -2.36408,3.983226 h -1.86664 l -0.74617,-2.9881 -9.08596,4.47994 -5.72551,0.12313 -12.32181,16.05606 -4.72915,0.12313 -3.73402,-1.86664 -9.21057,6.47168 h -7.59265 l -0.24872,-1.86664 -4.72915,-0.24872 -0.38909,1.97746 -4.339078,-0.24626 -0.37185,-0.99489 -4.2322,-0.12313 -0.99735,1.49233 -4.23245,-0.24872 -1.36919,2.11536 -6.72065,-7.59265 -3.23732,-0.12313 -1.61792,-1.86664 -1.49232,1.99224 h -10.0811 l -4.35681,-4.60455 -0.12313,-4.47994 z" />
+  </g>
+</svg>

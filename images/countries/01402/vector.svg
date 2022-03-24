@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg53"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="vector.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview55"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="230.3124"
+     inkscape:cy="451.84457"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="953"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs50" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 158.89161,59.229683 c -6.73591,-5.704437 -5.51699,-14.715741 -14.35542,-18.100348 -8.40554,-1.363856 -20.8774,1.573753 -23.71773,-8.738103 -15.68975,25.845911 -2.80603,37.176057 -49.281708,61.758511 l -18.88986,1.57416 -20.98873,15.741547 h -20.98874 c -5.4961608,-2.02272 -8.6701408,-0.94922 -9.96966082,2.62359 l 0.52472002,151.11892 13.1179508,-6.82135 4.72247,-1.04943 30.9584,-17.31571 6.82133,-9.44493 15.74156,-8.39549 c 12.2658,-5.62684 20.71908,-6.17031 28.859498,-6.29663 l 17.31571,-11.01908 4.72246,1.04943 c 8.45407,-5.69022 17.23149,-11.31577 18.88986,-18.36514 l 2.09887,-6.82134 c 8.72452,-4.84846 8.11543,-7.36349 5.7719,-9.44494 1.50047,-7.59469 4.98213,-13.20811 12.06852,-15.21682 3.87344,-2.14812 9.60146,-1.5143 16.26627,0.52472 l 21.5135,-19.41458 8.92021,-13.11797 -37.77976,-23.61233 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#d38d5f;stroke-width:1.39867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="Camina" />
+  </g>
+</svg>

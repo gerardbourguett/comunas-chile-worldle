@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg64"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="vector.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview66"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74029882"
+     inkscape:cx="361.34057"
+     inkscape:cy="345.8063"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs61" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:nodetypes="cccccccccccccc"
+       d="m 3.9427359,108.77587 c -9.555728,-6.57361 20.7952321,0.32832 28.7598731,-6.73721 11.652556,-11.693958 24.323453,-14.518089 35.306984,-2.146143 6.76539,7.686653 13.59084,15.420443 23.1727,19.716263 10.373557,4.89879 22.191367,2.77102 33.181597,1.86895 9.63714,-3.67542 20.3052,-4.29797 29.89241,0.15475 12.23624,6.49349 30.0323,27.69263 39.26966,15.86421 -5.22102,4.69541 14.05678,-3.58767 14.33692,2.09306 -8.61055,15.84159 -22.48347,35.00038 -27.78489,53.81006 -15.61779,2.5521 -40.87991,-10.32171 -47.42766,9.28485 -18.80491,9.15857 -34.182667,-10.18967 -55.303047,-6.48024 C 70.558443,182.45668 55.777289,171.38697 39.431447,166.22009 39.420057,160.8749 38.683388,152.29085 32.9459,145.32617 26.447319,120.4096 13.49848,115.35037 3.9427359,108.77676 Z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#d38d5f;stroke-width:4.22102;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       id="El_Tabo" />
+  </g>
+</svg>

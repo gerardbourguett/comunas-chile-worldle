@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1283"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="vector.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1285"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.52347032"
+     inkscape:cx="155.69173"
+     inkscape:cy="611.30496"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1280" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#d38d5f;stroke-width:6.44928;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="Recoleta"
+       d="m 102.83769,289.29641 -63.960653,-17.70204 5.78486,-66.2876 -13.15109,-0.53371 0.5337,-53.66328 h -9.47172 l -9.99528,-7.36624 1.0514,-17.36152 -6.3121595,-6.83947 4.8407295,-2.60449 -0.53371,-85.782899 -2.0814595,-0.53371 v -12.4765 l 2.5991595,-0.5337 1.55843,-9.3591095 75.07137,35.7616495 115.849353,91.198429 -0.32023,17.82425 -29.83161,19.52838 -4.88343,12.47275 -26.5792,27.66263 h -11.38719 l -16.27223,11.93318 -3.25561,21.69736 -12.476503,23.8669 h 3.800003 z" />
+  </g>
+</svg>

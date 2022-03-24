@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/comunas-chile-worldle/static/css/main.2132cae8.css",
+    "main.js": "/comunas-chile-worldle/static/js/main.77623df6.js",
+    "static/js/787.9639cd66.chunk.js": "/comunas-chile-worldle/static/js/787.9639cd66.chunk.js",
+    "service-worker.js": "/comunas-chile-worldle/service-worker.js",
+    "index.html": "/comunas-chile-worldle/index.html",
+    "main.2132cae8.css.map": "/comunas-chile-worldle/static/css/main.2132cae8.css.map",
+    "main.77623df6.js.map": "/comunas-chile-worldle/static/js/main.77623df6.js.map",
+    "787.9639cd66.chunk.js.map": "/comunas-chile-worldle/static/js/787.9639cd66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2132cae8.css",
+    "static/js/main.77623df6.js"
+  ]
+}
