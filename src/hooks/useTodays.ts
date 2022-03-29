@@ -6,8 +6,7 @@ import { countriesWithImage, Country } from "../domain/countries";
 import { Guess, loadAllGuesses, saveGuesses } from "../domain/guess";
 
 const forcedCountries: Record<string, string> = {
-  "2022-02-02": "TD",
-  "2022-02-03": "PY",
+  "2022-03-30": "15102",
 };
 
 export function getDayString(shiftDayCount?: number) {

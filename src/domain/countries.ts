@@ -2706,7 +2706,7 @@ export const countries: Country[] = [
     nombre: "Rancagua",
     lat: -34.162,
     lng: -70.741,
-    url: "https://es.wikipedia.org/wiki/Rancagua",
+    url: "https://www.youtube.com/watch?v=RIqrVE_BPSo",
     relacion: 1662436,
   },
   {
@@ -3354,7 +3354,7 @@ export const countries: Country[] = [
     nombre: "Valparaiso",
     lat: -33.0436,
     lng: -71.6231,
-    url: "https://es.wikipedia.org/wiki/Valpara%C3%ADso",
+    url: "https://es.wikipedia.org/wiki/Islas_Desventuradas",
     relacion: 110808,
   },
   {
