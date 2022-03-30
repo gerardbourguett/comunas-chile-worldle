@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import i18n from "i18next";
 import LanguageDetector from "i18next-browser-languagedetector";
 import { initReactI18next } from "react-i18next";
@@ -142,7 +143,7 @@ const resources = {
         averageBestDistance: "Mejor distancia media",
         guessDistribution: "Distribución de aciertos:",
       },
-      buyMeACoffee: "Doneme un café :(",
+      buyMeACoffee: "Creative Commons",
     },
   },
   eu: {
