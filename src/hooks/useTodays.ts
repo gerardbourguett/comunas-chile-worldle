@@ -8,6 +8,8 @@ import { Guess, loadAllGuesses, saveGuesses } from "../domain/guess";
 const forcedCountries: Record<string, string> = {
   "2022-03-30": "15102",
   "2022-04-04": "06101",
+  "2022-04-16": "02101",
+  "2022-04-17": "11301",
 };
 
 export function getDayString(shiftDayCount?: number) {
