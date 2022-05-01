@@ -1,6 +1,7 @@
+/* eslint-disable prettier/prettier */
 import { Guess } from "./guess";
 
-const MAX_DISTANCE_ON_EARTH = 4_200_000;
+const MAX_DISTANCE_ON_EARTH = 1_000_000;
 
 export type Direction =
   | "S"
@@ -73,6 +74,6 @@ export function formatDistance(
   const distanceInKm = distanceInMeters / 1000;
 
   return distanceUnit === "km"
-    ? `${Math.round(distanceInKm)}km`
-    : `${Math.round(distanceInKm * 0.621371)}mi`;
+    ? `${Math.round(distanceInKm).toLocaleString()}km`
+    : `${Math.round(distanceInKm * 0.621371).toLocaleString()}mi`;
 }

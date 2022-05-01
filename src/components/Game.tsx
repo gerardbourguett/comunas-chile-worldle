@@ -7,12 +7,7 @@ import React, {
   useState,
 } from "react";
 import { toast } from "react-toastify";
-import {
-  countries,
-  getCountryName,
-  getUrl,
-  sanitizeCountryName,
-} from "../domain/countries";
+import { getCountryName, sanitizeCountryName } from "../domain/countries";
 import { CountryInput } from "./CountryInput";
 import * as geolib from "geolib";
 import { Share } from "./Share";
@@ -22,6 +17,8 @@ import { SettingsData } from "../hooks/useSettings";
 import { useMode } from "../hooks/useMode";
 import { getDayString, useTodays } from "../hooks/useTodays";
 import { Twemoji } from "@teuteuf/react-emoji-render";
+import { countries } from "../domain/countries.position";
+import { useNewsNotifications } from "../hooks/useNewsNotifications";
 
 const MAX_TRY_COUNT = 6;
 
@@ -37,10 +34,16 @@ export function Game({ settingsData, updateSettings }: GameProps) {
     [settingsData.shiftDayCount]
   );
 
+  useNewsNotifications(dayString);
+
   const countryInputRef = useRef<HTMLInputElement>(null);
 
   const [todays, addGuess, randomAngle, imageScale] = useTodays(dayString);
   const { country, guesses } = todays;
+  const countryName = useMemo(
+    () => (country ? getCountryName(i18n.resolvedLanguage, country) : ""),
+    [country, i18n.resolvedLanguage]
+  );
 
   const [currentGuess, setCurrentGuess] = useState("");
   const [hideImageMode, setHideImageMode] = useMode(
@@ -125,7 +128,7 @@ export function Game({ settingsData, updateSettings }: GameProps) {
     <div className="flex-grow flex flex-col mx-2">
       {hideImageMode && !gameEnded && (
         <button
-          className="border-2 uppercase my-2 hover:bg-gray-50 active:bg-gray-100 dark:hover:bg-slate-800 dark:active:bg-slate-700"
+          className="border-2 p-1 rounded uppercase my-2 hover:bg-gray-50 active:bg-gray-100 dark:hover:bg-slate-800 dark:active:bg-slate-700"
           type="button"
           onClick={() => setHideImageMode(false)}
         >
@@ -149,7 +152,7 @@ export function Game({ settingsData, updateSettings }: GameProps) {
           </button>
         )}
         <img
-          className={`max-h-52 m-auto transition-transform duration-700 ease-in dark:invert ${
+          className={`pointer-events-none max-h-52 m-auto transition-transform duration-700 ease-in dark:invert ${
             hideImageMode && !gameEnded ? "h-0" : "h-full"
           }`}
           alt="country to guess"
@@ -177,7 +180,7 @@ export function Game({ settingsData, updateSettings }: GameProps) {
       </div>
       {rotationMode && !hideImageMode && !gameEnded && (
         <button
-          className="border-2 uppercase mb-2 hover:bg-gray-50 active:bg-gray-100 dark:hover:bg-slate-800 dark:active:bg-slate-700"
+          className="rounded p-1 border-2 uppercase mb-2 hover:bg-gray-50 active:bg-gray-100 dark:hover:bg-slate-800 dark:active:bg-slate-700"
           type="button"
           onClick={() => setRotationMode(false)}
         >
@@ -216,7 +219,7 @@ export function Game({ settingsData, updateSettings }: GameProps) {
             </a>
             <a
               className="underline w-full text-center block mt-4"
-              href={getUrl(country)}
+              href={`https://${i18n.resolvedLanguage}.wikipedia.org/wiki/${countryName}`}
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -235,7 +238,7 @@ export function Game({ settingsData, updateSettings }: GameProps) {
                 setCurrentGuess={setCurrentGuess}
               />
               <button
-                className="flex items-center justify-center border-2 uppercase my-0.5 hover:bg-gray-50 active:bg-gray-100 dark:hover:bg-slate-800 dark:active:bg-slate-700"
+                className="rounded font-bold p-1 flex items-center justify-center border-2 uppercase my-0.5 hover:bg-gray-50 active:bg-gray-100 dark:hover:bg-slate-800 dark:active:bg-slate-700"
                 type="submit"
               >
                 <Twemoji

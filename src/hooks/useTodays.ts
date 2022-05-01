@@ -2,15 +2,21 @@
 import { DateTime } from "luxon";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import seedrandom from "seedrandom";
-import { countriesWithImage, Country } from "../domain/countries";
+import {
+  bigEnoughCountriesWithImage,
+  countriesWithImage,
+  Country,
+  smallCountryLimit,
+} from "../domain/countries";
+import { areas } from "../domain/countries.area";
 import { Guess, loadAllGuesses, saveGuesses } from "../domain/guess";
 
 const forcedCountries: Record<string, string> = {
-  "2022-03-30": "15102",
-  "2022-04-04": "06101",
-  "2022-04-16": "02101",
-  "2022-04-17": "11301",
+  "2022-02-02": "TD",
+  "2022-02-03": "PY",
 };
+
+const noRepeatStartDate = DateTime.fromFormat("2022-05-01", "yyyy-MM-dd");
 
 export function getDayString(shiftDayCount?: number) {
   return DateTime.now()
@@ -68,16 +74,70 @@ export function useTodays(dayString: string): [
 }
 
 function getCountry(dayString: string) {
-  const forcedCountryCode = forcedCountries[dayString];
-  const forcedCountry =
-    forcedCountryCode != null
-      ? countriesWithImage.find((country) => country.code === forcedCountryCode)
-      : undefined;
+  const currentDayDate = DateTime.fromFormat(dayString, "yyyy-MM-dd");
+  let pickingDate = DateTime.fromFormat("2022-03-21", "yyyy-MM-dd");
+  let smallCountryCooldown = 0;
+  let pickedCountry: Country | null = null;
 
-  return (
-    forcedCountry ??
-    countriesWithImage[
-    Math.floor(seedrandom.alea(dayString)() * countriesWithImage.length)
-    ]
-  );
+  const lastPickDates: Record<string, DateTime> = {};
+
+  do {
+    smallCountryCooldown--;
+
+    const pickingDateString = pickingDate.toFormat("yyyy-MM-dd");
+
+    const forcedCountryCode = forcedCountries[dayString];
+    const forcedCountry =
+      forcedCountryCode != null
+        ? countriesWithImage.find(
+          (country) => country.code === forcedCountryCode
+        )
+        : undefined;
+
+    const countrySelection =
+      smallCountryCooldown < 0
+        ? countriesWithImage
+        : bigEnoughCountriesWithImage;
+
+    if (forcedCountry != null) {
+      pickedCountry = forcedCountry;
+    } else {
+      let countryIndex = Math.floor(
+        seedrandom.alea(pickingDateString)() * countrySelection.length
+      );
+      pickedCountry = countrySelection[countryIndex];
+
+      if (currentDayDate >= noRepeatStartDate) {
+        while (isARepeat(pickedCountry, lastPickDates, currentDayDate)) {
+          countryIndex = (countryIndex + 1) % countrySelection.length;
+          pickedCountry = countrySelection[countryIndex];
+        }
+      }
+    }
+
+    if (areas[pickedCountry.code] < smallCountryLimit) {
+      smallCountryCooldown = 7;
+    }
+
+    lastPickDates[pickedCountry.code] = pickingDate;
+    pickingDate = pickingDate.plus({ day: 1 });
+  } while (pickingDate <= currentDayDate);
+
+  return pickedCountry;
+}
+
+function isARepeat(
+  pickedCountry: Country | null,
+  lastPickDates: Record<string, DateTime>,
+  currentDayDate: DateTime
+) {
+  if (pickedCountry == null || lastPickDates[pickedCountry.code] == null) {
+    return false;
+  }
+  const daysSinceLastPick = lastPickDates[pickedCountry.code].diff(
+    currentDayDate,
+    "day"
+  ).days;
+
+  return daysSinceLastPick < 300;
 }
